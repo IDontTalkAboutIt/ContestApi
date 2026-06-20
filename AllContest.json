@@ -1,0 +1,178 @@
+[
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ Evening Practice Contest - 4:30 PM",
+    "startTime": 1779620400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0075",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ Evening Practice Contest - 5:00 PM",
+    "startTime": 1779622200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0075",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0075 Beta",
+    "startTime": 1779447600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0075",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 51: Golang Projects",
+    "startTime": 1779474600,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND51",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0076 Beta",
+    "startTime": 1779706800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0076",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 004 (Rated)",
+    "startTime": 1779712200,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY004",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 240",
+    "startTime": 1779892200,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START240",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ AtCoder Heuristic Contest 066",
+    "startTime": 1780048800,
+    "duration": 864000,
+    "url": "https://atcoder.jp/contests/ahc066",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 460",
+    "startTime": 1780142400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc460",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1780151700,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2232",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 504",
+    "startTime": 1780194600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-504",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 221",
+    "startTime": 1780228800,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc221",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 241",
+    "startTime": 1780497000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START241",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 461",
+    "startTime": 1780747200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc461",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 184",
+    "startTime": 1780756200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-184",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 503",
+    "startTime": 1779589800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-503",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
+    "startTime": 1779546900,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2229",
+    "status": "recent"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 183",
+    "startTime": 1779546600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-183",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ Tokio Marine & Nichido Fire Insurance Programming Contest 2026  (AtCoder Beginner Contest 459)",
+    "startTime": 1779537600,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc459",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0075 Beta",
+    "startTime": 1779447600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0075",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1099 (Div. 2)",
+    "startTime": 1779374100,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2231",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0074 Beta",
+    "startTime": 1779361200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0074",
+    "status": "recent"
+  }
+]
