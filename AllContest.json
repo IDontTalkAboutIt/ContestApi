@@ -13,7 +13,7 @@
     "startTime": 1781956800,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc463",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -117,6 +117,14 @@
     "startTime": 1782916200,
     "duration": 7200,
     "url": "https://www.codechef.com/START245",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 465",
+    "startTime": 1783166400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc465",
     "status": "future"
   }
 ]
