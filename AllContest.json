@@ -9,14 +9,6 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓗ◉ AtCoder Heuristic Contest 067",
-    "startTime": 1782036000,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc067",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0096 Beta",
     "startTime": 1782126000,
     "duration": 3600,
@@ -118,6 +110,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-186",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ AtCoder Heuristic Contest 067",
+    "startTime": 1782036000,
+    "duration": 14400,
+    "url": "https://atcoder.jp/contests/ahc067",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
