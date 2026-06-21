@@ -8,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 507",
-    "startTime": 1782009000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-507",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ AtCoder Heuristic Contest 067",
     "startTime": 1782036000,
     "duration": 14400,
     "url": "https://atcoder.jp/contests/ahc067",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -126,6 +118,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-186",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 507",
+    "startTime": 1782009000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-507",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
