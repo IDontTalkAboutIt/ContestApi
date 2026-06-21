@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 55: .NET projects",
-    "startTime": 1781893800,
-    "duration": 172800,
-    "url": "https://www.codechef.com/DEVWEEKEND55",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0096 Beta",
     "startTime": 1782126000,
@@ -110,6 +102,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-186",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 55: .NET projects",
+    "startTime": 1781893800,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND55",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
