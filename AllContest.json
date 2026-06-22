@@ -1,18 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0096 Beta",
-    "startTime": 1782126000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0097 Beta",
+    "startTime": 1782212400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0096",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 008 (Rated)",
-    "startTime": 1782135000,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY008",
+    "url": "https://atcoder.jp/contests/awc0097",
     "status": "future"
   },
   {
@@ -25,7 +17,7 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）",
+    "name": "Ⓐ◉ Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner Contest 464)",
     "startTime": 1782561600,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc464",
@@ -102,6 +94,22 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-186",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 008 (Rated)",
+    "startTime": 1782135000,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY008",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0096 Beta",
+    "startTime": 1782126000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0096",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
