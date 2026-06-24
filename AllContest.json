@@ -9,10 +9,18 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 244",
+    "name": "Starters 244 (Rated till 5 star)",
     "startTime": 1782311400,
     "duration": 7200,
     "url": "https://www.codechef.com/START244",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 56: .NET projects",
+    "startTime": 1782498600,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND56",
     "status": "future"
   },
   {
@@ -149,14 +157,6 @@
     "startTime": 1782036000,
     "duration": 14400,
     "url": "https://atcoder.jp/contests/ahc067",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 507",
-    "startTime": 1782009000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-507",
     "status": "recent"
   }
 ]
