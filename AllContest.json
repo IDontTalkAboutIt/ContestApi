@@ -1,18 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0098 Beta",
-    "startTime": 1782298800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0099 Beta",
+    "startTime": 1782385200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0098",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 244 (Rated till 5 star)",
-    "startTime": 1782311400,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START244",
+    "url": "https://atcoder.jp/contests/awc0099",
     "status": "future"
   },
   {
@@ -72,6 +64,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 008 (Rated)",
+    "startTime": 1782739800,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY009",
+    "status": "future"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 3)",
     "startTime": 1782830100,
@@ -120,6 +120,30 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 246",
+    "startTime": 1783521000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START246",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 244 (Rated till 5 star)",
+    "startTime": 1782311400,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START244",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0098 Beta",
+    "startTime": 1782298800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0098",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0097 Beta",
     "startTime": 1782212400,
@@ -149,14 +173,6 @@
     "startTime": 1781893800,
     "duration": 172800,
     "url": "https://www.codechef.com/DEVWEEKEND55",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ AtCoder Heuristic Contest 067",
-    "startTime": 1782036000,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc067",
     "status": "recent"
   }
 ]
