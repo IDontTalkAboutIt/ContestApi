@@ -5,7 +5,7 @@
     "startTime": 1782471600,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/awc0100",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -101,6 +101,14 @@
     "startTime": 1783175400,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-186",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 509",
+    "startTime": 1783218600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-509",
     "status": "future"
   },
   {
