@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0100 Beta",
-    "startTime": 1782471600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/awc0100",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 56: .NET projects",
     "startTime": 1782498600,
@@ -61,6 +53,14 @@
     "startTime": 1782657300,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2238",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0101 Beta",
+    "startTime": 1782730800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0101",
     "status": "future"
   },
   {
@@ -152,6 +152,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 3)",
+    "startTime": 1783694100,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2244",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0100 Beta",
+    "startTime": 1782471600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/awc0100",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0099 Beta",
     "startTime": 1782385200,
@@ -173,14 +189,6 @@
     "startTime": 1782298800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0098",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0097 Beta",
-    "startTime": 1782212400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0097",
     "status": "recent"
   }
 ]
