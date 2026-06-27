@@ -8,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner Contest 464)",
-    "startTime": 1782561600,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc464",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1105 (Div. 1)",
     "startTime": 1782570900,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2239",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeForces",
@@ -29,7 +21,7 @@
     "startTime": 1782570900,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2240",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -161,6 +153,22 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 466",
+    "startTime": 1783771200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc466",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner Contest 464)",
+    "startTime": 1782561600,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc464",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0100 Beta",
     "startTime": 1782471600,
     "duration": 9000,
@@ -181,14 +189,6 @@
     "startTime": 1782311400,
     "duration": 7200,
     "url": "https://www.codechef.com/START244",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0098 Beta",
-    "startTime": 1782298800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0098",
     "status": "recent"
   }
 ]
