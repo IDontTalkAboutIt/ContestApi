@@ -5,7 +5,7 @@
     "startTime": 1782903600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0103",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -13,6 +13,14 @@
     "startTime": 1782916200,
     "duration": 7200,
     "url": "https://www.codechef.com/START245",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 57: .NET projects",
+    "startTime": 1783103400,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND57",
     "status": "future"
   },
   {
@@ -37,6 +45,22 @@
     "startTime": 1783218600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-509",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 010 (Rated)",
+    "startTime": 1783344600,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY010",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
+    "startTime": 1783348500,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2242",
     "status": "future"
   },
   {
@@ -69,6 +93,14 @@
     "startTime": 1783562400,
     "duration": 25200,
     "url": "https://atcoder.jp/contests/awtf2026algo-open",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 3)",
+    "startTime": 1783694100,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2244",
     "status": "future"
   },
   {
@@ -149,14 +181,6 @@
     "startTime": 1782648000,
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc223",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 508",
-    "startTime": 1782613800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-508",
     "status": "recent"
   }
 ]
