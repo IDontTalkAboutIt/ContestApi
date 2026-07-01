@@ -1,23 +1,15 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0103 Beta",
-    "startTime": 1782903600,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0104 Beta",
+    "startTime": 1782990000,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0103",
-    "status": "running"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 245",
-    "startTime": 1782916200,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START245",
+    "url": "https://atcoder.jp/contests/awc0104",
     "status": "future"
   },
   {
     "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 57: .NET projects",
+    "name": "Weekend Dev Challenge 57: LLD Projects",
     "startTime": 1783103400,
     "duration": 172800,
     "url": "https://www.codechef.com/DEVWEEKEND57",
@@ -128,6 +120,30 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 247",
+    "startTime": 1784125800,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START247",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 245",
+    "startTime": 1782916200,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START245",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0103 Beta",
+    "startTime": 1782903600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0103",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1107 (Div. 3)",
     "startTime": 1782830100,
@@ -157,30 +173,6 @@
     "startTime": 1782730800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0101",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 56: .NET projects",
-    "startTime": 1782498600,
-    "duration": 172800,
-    "url": "https://www.codechef.com/DEVWEEKEND56",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1106 (Div. 2)",
-    "startTime": 1782657300,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2238",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest 223",
-    "startTime": 1782648000,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc223",
     "status": "recent"
   }
 ]
