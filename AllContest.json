@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0105 Beta",
-    "startTime": 1783076400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0105",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 57: LLD Projects",
     "startTime": 1783103400,
@@ -37,6 +29,14 @@
     "startTime": 1783218600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-509",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0106 Beta",
+    "startTime": 1783335600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0106",
     "status": "future"
   },
   {
@@ -137,6 +137,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0105 Beta",
+    "startTime": 1783076400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0105",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0104 Beta",
     "startTime": 1782990000,
     "duration": 3600,
@@ -157,22 +165,6 @@
     "startTime": 1782903600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0103",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1107 (Div. 3)",
-    "startTime": 1782830100,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2241",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0102 Beta",
-    "startTime": 1782817200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0102",
     "status": "recent"
   }
 ]
