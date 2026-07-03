@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1783866900,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2246",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 247",
     "startTime": 1784125800,
