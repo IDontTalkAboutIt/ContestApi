@@ -9,14 +9,6 @@
   },
   {
     "platform": "LeetCode",
-    "name": "Biweekly Contest 186",
-    "startTime": 1783175400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-186",
-    "status": "running"
-  },
-  {
-    "platform": "LeetCode",
     "name": "Weekly Contest 509",
     "startTime": 1783218600,
     "duration": 5400,
@@ -160,6 +152,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 186",
+    "startTime": 1783175400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-186",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 465",
     "startTime": 1783166400,
@@ -181,14 +181,6 @@
     "startTime": 1782990000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0104",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 245",
-    "startTime": 1782916200,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START245",
     "status": "recent"
   }
 ]
