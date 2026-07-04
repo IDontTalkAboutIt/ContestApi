@@ -137,6 +137,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓗ◉ estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
+    "startTime": 1784354400,
+    "duration": 14400,
+    "url": "https://atcoder.jp/contests/ahc068",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0105 Beta",
     "startTime": 1783076400,
     "duration": 3600,
