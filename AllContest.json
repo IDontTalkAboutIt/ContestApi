@@ -8,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 465",
-    "startTime": 1783166400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc465",
-    "status": "future"
-  },
-  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 186",
     "startTime": 1783175400,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-186",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -145,6 +137,38 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 467",
+    "startTime": 1784376000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc467",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 187",
+    "startTime": 1784385000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-187",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1784385300,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2247",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 465",
+    "startTime": 1783166400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc465",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0105 Beta",
     "startTime": 1783076400,
     "duration": 3600,
@@ -165,14 +189,6 @@
     "startTime": 1782916200,
     "duration": 7200,
     "url": "https://www.codechef.com/START245",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0103 Beta",
-    "startTime": 1782903600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0103",
     "status": "recent"
   }
 ]
