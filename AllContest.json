@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 509",
-    "startTime": 1783218600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-509",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0106 Beta",
     "startTime": 1783335600,
@@ -150,6 +142,14 @@
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2247",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 509",
+    "startTime": 1783218600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-509",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
