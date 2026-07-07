@@ -9,10 +9,10 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0107 Beta",
-    "startTime": 1783422000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0108 Beta",
+    "startTime": 1783508400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0107",
+    "url": "https://atcoder.jp/contests/awc0108",
     "status": "future"
   },
   {
@@ -96,6 +96,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+    "startTime": 1784212500,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2245",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
     "startTime": 1784354400,
@@ -144,6 +152,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0107 Beta",
+    "startTime": 1783422000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0107",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
     "startTime": 1783348500,
@@ -181,22 +197,6 @@
     "startTime": 1783218600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-509",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 186",
-    "startTime": 1783175400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-186",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 465",
-    "startTime": 1783166400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc465",
     "status": "recent"
   }
 ]
