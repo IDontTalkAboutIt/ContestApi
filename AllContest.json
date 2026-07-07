@@ -5,7 +5,7 @@
     "startTime": 1783382400,
     "duration": 122400,
     "url": "https://atcoder.jp/contests/awtf2026heuristic",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -37,6 +37,14 @@
     "startTime": 1783562400,
     "duration": 25200,
     "url": "https://atcoder.jp/contests/awtf2026algo-open",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 58: LLD Projects",
+    "startTime": 1783708200,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND58",
     "status": "future"
   },
   {
