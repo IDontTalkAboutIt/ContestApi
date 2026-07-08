@@ -190,13 +190,5 @@
     "duration": 172800,
     "url": "https://www.codechef.com/DEVWEEKEND57",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 509",
-    "startTime": 1783218600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-509",
-    "status": "recent"
   }
 ]
