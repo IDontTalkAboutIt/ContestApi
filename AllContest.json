@@ -1,27 +1,11 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ World Tour Finals 2026 Heuristic",
-    "startTime": 1783382400,
-    "duration": 122400,
-    "url": "https://atcoder.jp/contests/awtf2026heuristic",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0108 Beta",
-    "startTime": 1783508400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0108",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
-    "name": "Starters 246",
+    "name": "Starters 246 (Rated till 4 Star)",
     "startTime": 1783521000,
     "duration": 7200,
     "url": "https://www.codechef.com/START246",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -37,6 +21,14 @@
     "startTime": 1783562400,
     "duration": 25200,
     "url": "https://atcoder.jp/contests/awtf2026algo-open",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0109 Beta",
+    "startTime": 1783594800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0109",
     "status": "future"
   },
   {
@@ -77,6 +69,14 @@
     "startTime": 1783866900,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2246",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 011 (Rated)",
+    "startTime": 1783949400,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY011",
     "status": "future"
   },
   {
@@ -150,6 +150,30 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc225",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 248",
+    "startTime": 1784730600,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START248",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0108 Beta",
+    "startTime": 1783508400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0108",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ World Tour Finals 2026 Heuristic",
+    "startTime": 1783382400,
+    "duration": 122400,
+    "url": "https://atcoder.jp/contests/awtf2026heuristic",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
