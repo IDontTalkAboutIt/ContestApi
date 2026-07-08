@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Starters 246 (Rated till 4 Star)",
-    "startTime": 1783521000,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START246",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ World Tour Finals 2026 Algorithm",
     "startTime": 1783562400,
@@ -160,6 +152,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 246 (Rated till 4 Star)",
+    "startTime": 1783521000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START246",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0108 Beta",
     "startTime": 1783508400,
@@ -205,14 +205,6 @@
     "startTime": 1783335600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0106",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 57: LLD Projects",
-    "startTime": 1783103400,
-    "duration": 172800,
-    "url": "https://www.codechef.com/DEVWEEKEND57",
     "status": "recent"
   }
 ]
