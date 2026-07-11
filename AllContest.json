@@ -182,13 +182,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0108",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ World Tour Finals 2026 Heuristic",
-    "startTime": 1783382400,
-    "duration": 122400,
-    "url": "https://atcoder.jp/contests/awtf2026heuristic",
-    "status": "recent"
   }
 ]
