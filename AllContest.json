@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 510",
-    "startTime": 1783823400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-510",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest-- 224",
     "startTime": 1783857600,
@@ -65,7 +57,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+    "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
     "startTime": 1784212500,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2245",
@@ -134,6 +126,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc468",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 510",
+    "startTime": 1783823400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-510",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
