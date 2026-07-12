@@ -8,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest-- 224",
-    "startTime": 1783857600,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc224",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1108 (Div. 2)",
     "startTime": 1783866900,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2246",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -128,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest-- 224",
+    "startTime": 1783857600,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc224",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 510",
     "startTime": 1783823400,
@@ -149,14 +149,6 @@
     "startTime": 1783681200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0110",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0109 Beta",
-    "startTime": 1783594800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0109",
     "status": "recent"
   }
 ]
