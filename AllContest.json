@@ -158,21 +158,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0109",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ World Tour Finals 2026 Algorithm",
-    "startTime": 1783562400,
-    "duration": 25200,
-    "url": "https://atcoder.jp/contests/awtf2026algo",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ World Tour Finals 2026 Algorithm（Open Contest）",
-    "startTime": 1783562400,
-    "duration": 25200,
-    "url": "https://atcoder.jp/contests/awtf2026algo-open",
-    "status": "recent"
   }
 ]
