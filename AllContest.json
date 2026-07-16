@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeForces",
-    "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
-    "startTime": 1784212500,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2245",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0115 Beta",
     "startTime": 1784286000,
@@ -104,6 +96,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+    "startTime": 1784212500,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2245",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0114 Beta",
     "startTime": 1784199600,
@@ -141,14 +141,6 @@
     "startTime": 1784026800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0112",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 011 (Rated)",
-    "startTime": 1783949400,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY011",
     "status": "recent"
   }
 ]
