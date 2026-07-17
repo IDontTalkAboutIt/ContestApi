@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0115 Beta",
-    "startTime": 1784286000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0115",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 59: LLD Projects",
     "startTime": 1784313000,
@@ -64,6 +56,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0116 Beta",
+    "startTime": 1784545200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0116",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 012 (Rated)",
     "startTime": 1784554200,
@@ -88,12 +88,36 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 512",
+    "startTime": 1785033000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-512",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 249",
     "startTime": 1785335400,
     "duration": 7200,
     "url": "https://www.codechef.com/START249",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
+    "startTime": 1785492000,
+    "duration": 864000,
+    "url": "https://atcoder.jp/contests/ahc069",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0115 Beta",
+    "startTime": 1784286000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0115",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
@@ -133,14 +157,6 @@
     "startTime": 1784039700,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2244",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0112 Beta",
-    "startTime": 1784026800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0112",
     "status": "recent"
   }
 ]
