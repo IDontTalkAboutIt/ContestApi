@@ -150,13 +150,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0113",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1109 (Div. 3)",
-    "startTime": 1784039700,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2244",
-    "status": "recent"
   }
 ]
