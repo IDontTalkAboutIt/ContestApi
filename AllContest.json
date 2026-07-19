@@ -9,14 +9,6 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest 225",
-    "startTime": 1784462400,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc225",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0116 Beta",
     "startTime": 1784545200,
     "duration": 3600,
@@ -128,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest 225",
+    "startTime": 1784462400,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc225",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 511",
     "startTime": 1784428200,
@@ -181,14 +181,6 @@
     "startTime": 1784212500,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2245",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0114 Beta",
-    "startTime": 1784199600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0114",
     "status": "recent"
   }
 ]
