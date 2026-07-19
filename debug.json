@@ -2,7 +2,7 @@
   {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 59: LLD Projects",
-    "startTime": 1784282400,
+    "startTime": 1784525400,
     "duration": 172800,
     "url": "https://www.codechef.com/DEVWEEKEND59",
     "status": "running"
@@ -10,7 +10,7 @@
   {
     "platform": "LeetCode",
     "name": "Weekly Contest 511",
-    "startTime": 1784456400,
+    "startTime": 1784526600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-511",
     "status": "future"
@@ -18,7 +18,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest 225",
-    "startTime": 1784457600,
+    "startTime": 1784527800,
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc225",
     "status": "future"
@@ -26,7 +26,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0116 Beta",
-    "startTime": 1784545200,
+    "startTime": 1784529000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0116",
     "status": "future"
@@ -34,7 +34,7 @@
   {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 012 (Rated)",
-    "startTime": 1784546400,
+    "startTime": 1784530200,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY012",
     "status": "future"
@@ -42,7 +42,7 @@
   {
     "platform": "CodeChef",
     "name": "Starters 248",
-    "startTime": 1784720400,
+    "startTime": 1784531400,
     "duration": 7200,
     "url": "https://www.codechef.com/START248",
     "status": "future"
@@ -50,7 +50,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 468",
-    "startTime": 1784980800,
+    "startTime": 1784532600,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc468",
     "status": "future"
@@ -58,7 +58,7 @@
   {
     "platform": "LeetCode",
     "name": "Weekly Contest 512",
-    "startTime": 1785068400,
+    "startTime": 1784533800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-512",
     "status": "future"
@@ -66,7 +66,7 @@
   {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 1)",
-    "startTime": 1785069600,
+    "startTime": 1784535000,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2249",
     "status": "future"
@@ -74,7 +74,7 @@
   {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 2)",
-    "startTime": 1785070800,
+    "startTime": 1784536200,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2250",
     "status": "future"
@@ -82,7 +82,7 @@
   {
     "platform": "CodeChef",
     "name": "Starters 249",
-    "startTime": 1785331200,
+    "startTime": 1784537400,
     "duration": 7200,
     "url": "https://www.codechef.com/START249",
     "status": "future"
@@ -90,14 +90,15 @@
   {
     "platform": "AtCoder",
     "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
-    "startTime": 1785505200,
+    "startTime": 1784538600,
     "duration": 864000,
     "url": "https://atcoder.jp/contests/ahc069",
     "status": "future"
-  },{
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 01",
-    "startTime": 1785506400,
+    "startTime": 1784539800,
     "duration": 7200,
     "url": "https://www.codechef.com/PLACEPREP01",
     "status": "future"
@@ -105,7 +106,7 @@
   {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 2)",
-    "startTime": 1785594000,
+    "startTime": 1784541000,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2248",
     "status": "future"
@@ -113,7 +114,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 469",
-    "startTime": 1785595200,
+    "startTime": 1784542200,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc469",
     "status": "future"
@@ -121,7 +122,7 @@
   {
     "platform": "HackerRank",
     "name": "HackerRank Orchestrate August'26",
-    "startTime": 1785596400,
+    "startTime": 1784543400,
     "duration": 86400,
     "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-august26/challenges",
     "status": "future"
@@ -129,7 +130,7 @@
   {
     "platform": "LeetCode",
     "name": "Biweekly Contest 188",
-    "startTime": 1785597600,
+    "startTime": 1784544600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-188",
     "status": "future"
@@ -137,7 +138,7 @@
   {
     "platform": "CodeForces",
     "name": "Codeforces Round 1111 (Div. 2)",
-    "startTime": 1784364000,
+    "startTime": 1784545800,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2247",
     "status": "recent"
@@ -145,7 +146,7 @@
   {
     "platform": "LeetCode",
     "name": "Biweekly Contest 187",
-    "startTime": 1784365200,
+    "startTime": 1784547000,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-187",
     "status": "recent"
@@ -153,7 +154,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 467",
-    "startTime": 1784366400,
+    "startTime": 1784548200,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc467",
     "status": "recent"
@@ -161,7 +162,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓗ◉ estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
-    "startTime": 1784367600,
+    "startTime": 1784549400,
     "duration": 14400,
     "url": "https://atcoder.jp/contests/ahc068",
     "status": "recent"
@@ -169,7 +170,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0115 Beta",
-    "startTime": 1784287200,
+    "startTime": 1784550600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0115",
     "status": "recent"
@@ -177,7 +178,7 @@
   {
     "platform": "CodeForces",
     "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
-    "startTime": 1784196000,
+    "startTime": 1784551800,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2245",
     "status": "recent"
@@ -185,7 +186,7 @@
   {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0114 Beta",
-    "startTime": 1784197200,
+    "startTime": 1784553000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0114",
     "status": "recent"
