@@ -112,6 +112,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 513",
+    "startTime": 1785637800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-513",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 59: LLD Projects",
     "startTime": 1784313000,
