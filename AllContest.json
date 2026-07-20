@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0116 Beta",
-    "startTime": 1784545200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0116",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 012 (Rated)",
     "startTime": 1784554200,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY012",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0117 Beta",
+    "startTime": 1784631600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0117",
     "status": "future"
   },
   {
@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0116 Beta",
+    "startTime": 1784545200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0116",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 59: LLD Projects",
     "startTime": 1784313000,
@@ -173,14 +181,6 @@
     "startTime": 1784354400,
     "duration": 14400,
     "url": "https://atcoder.jp/contests/ahc068",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0115 Beta",
-    "startTime": 1784286000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0115",
     "status": "recent"
   }
 ]
