@@ -166,21 +166,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-511",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1111 (Div. 2)",
-    "startTime": 1784385300,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2247",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 187",
-    "startTime": 1784385000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-187",
-    "status": "recent"
   }
 ]
