@@ -5,7 +5,7 @@
     "startTime": 1784631600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0117",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -173,14 +173,6 @@
     "startTime": 1784376000,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc467",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
-    "startTime": 1784354400,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc068",
     "status": "recent"
   }
 ]
