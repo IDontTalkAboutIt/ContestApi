@@ -16,6 +16,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 60: LLD Projects",
+    "startTime": 1784917800,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND60",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 468",
     "startTime": 1784980800,
@@ -173,14 +181,6 @@
     "startTime": 1784385000,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-187",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 467",
-    "startTime": 1784376000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc467",
     "status": "recent"
   }
 ]
