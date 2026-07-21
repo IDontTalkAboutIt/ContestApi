@@ -1,11 +1,11 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0117 Beta",
-    "startTime": 1784631600,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0118 Beta",
+    "startTime": 1784718000,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0117",
-    "status": "running"
+    "url": "https://atcoder.jp/contests/awc0118",
+    "status": "future"
   },
   {
     "platform": "CodeChef",
@@ -110,6 +110,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-513",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0117 Beta",
+    "startTime": 1784631600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0117",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
