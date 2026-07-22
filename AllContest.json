@@ -158,13 +158,5 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc225",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 511",
-    "startTime": 1784428200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-511",
-    "status": "recent"
   }
 ]
