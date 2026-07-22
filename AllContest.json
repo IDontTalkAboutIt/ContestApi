@@ -8,6 +8,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 60: LLD Projects",
+    "startTime": 1784917800,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND60",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 468",
     "startTime": 1784980800,
@@ -40,11 +48,35 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 013 (Rated)",
+    "startTime": 1785159000,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY013",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 249",
+    "startTime": 1785335400,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START249",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
     "startTime": 1785492000,
     "duration": 864000,
     "url": "https://atcoder.jp/contests/ahc069",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 01",
+    "startTime": 1785522600,
+    "duration": 7200,
+    "url": "https://www.codechef.com/PLACEPREP01",
     "status": "future"
   },
   {
@@ -85,6 +117,14 @@
     "startTime": 1785637800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-513",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 250",
+    "startTime": 1785940200,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START250",
     "status": "future"
   },
   {
