@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0119 Beta",
-    "startTime": 1784804400,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0120 Beta",
+    "startTime": 1784890800,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0119",
+    "url": "https://atcoder.jp/contests/awc0120",
     "status": "future"
   },
   {
@@ -129,6 +129,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0119 Beta",
+    "startTime": 1784804400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0119",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0118 Beta",
     "startTime": 1784718000,
     "duration": 3600,
@@ -149,14 +157,6 @@
     "startTime": 1784554200,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY012",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0116 Beta",
-    "startTime": 1784545200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0116",
     "status": "recent"
   }
 ]
