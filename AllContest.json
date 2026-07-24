@@ -5,7 +5,7 @@
     "startTime": 1784917800,
     "duration": 172800,
     "url": "https://www.codechef.com/DEVWEEKEND60",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -125,6 +125,14 @@
     "startTime": 1785940200,
     "duration": 7200,
     "url": "https://www.codechef.com/START250",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 02",
+    "startTime": 1786127400,
+    "duration": 7200,
+    "url": "https://www.codechef.com/PLACEPREP02",
     "status": "future"
   },
   {
