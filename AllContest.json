@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0120 Beta",
-    "startTime": 1784890800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0120",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Weekend Dev Challenge 60: LLD Projects",
     "startTime": 1784917800,
@@ -45,6 +37,14 @@
     "startTime": 1785076500,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2250",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0121 Beta",
+    "startTime": 1785150000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0121",
     "status": "future"
   },
   {
@@ -129,6 +129,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0120 Beta",
+    "startTime": 1784890800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0120",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0119 Beta",
     "startTime": 1784804400,
     "duration": 3600,
@@ -141,14 +149,6 @@
     "startTime": 1784718000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0118",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0117 Beta",
-    "startTime": 1784631600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0117",
     "status": "recent"
   }
 ]
