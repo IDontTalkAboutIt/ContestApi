@@ -13,7 +13,7 @@
     "startTime": 1784980800,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc468",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -137,6 +137,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+    "startTime": 1786190400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc470",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0120 Beta",
     "startTime": 1784890800,
     "duration": 3600,
@@ -149,14 +157,6 @@
     "startTime": 1784804400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0119",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0118 Beta",
-    "startTime": 1784718000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0118",
     "status": "recent"
   }
 ]
