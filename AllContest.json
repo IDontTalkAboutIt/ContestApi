@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 468",
-    "startTime": 1784980800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc468",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 512",
     "startTime": 1785033000,
@@ -142,6 +134,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc470",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 468",
+    "startTime": 1784980800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc468",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
