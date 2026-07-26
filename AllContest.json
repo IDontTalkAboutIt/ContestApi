@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 512",
-    "startTime": 1785033000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-512",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1112 (Div. 1)",
     "startTime": 1785076500,
@@ -134,6 +126,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc470",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 512",
+    "startTime": 1785033000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-512",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
