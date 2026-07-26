@@ -128,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
+    "startTime": 1786276800,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc226",
+    "status": "future"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 512",
     "startTime": 1785033000,
@@ -149,14 +157,6 @@
     "startTime": 1784890800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0120",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0119 Beta",
-    "startTime": 1784804400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0119",
     "status": "recent"
   }
 ]
