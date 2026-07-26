@@ -88,6 +88,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1786026900,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2252",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 02",
     "startTime": 1786127400,
