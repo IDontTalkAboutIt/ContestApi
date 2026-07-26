@@ -1,29 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 60: LLD Projects",
-    "startTime": 1784917800,
-    "duration": 172800,
-    "url": "https://www.codechef.com/DEVWEEKEND60",
-    "status": "running"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1112 (Div. 1)",
-    "startTime": 1785076500,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2249",
-    "status": "running"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1112 (Div. 2)",
-    "startTime": 1785076500,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2250",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0121 Beta",
     "startTime": 1785150000,
@@ -134,6 +110,30 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc226",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Weekend Dev Challenge 60: LLD Projects",
+    "startTime": 1784917800,
+    "duration": 172800,
+    "url": "https://www.codechef.com/DEVWEEKEND60",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1112 (Div. 1)",
+    "startTime": 1785076500,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2249",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1112 (Div. 2)",
+    "startTime": 1785076500,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2250",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
