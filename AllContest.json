@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0121 Beta",
-    "startTime": 1785150000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0121",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 013 (Rated)",
     "startTime": 1785159000,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY013",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0122 Beta",
+    "startTime": 1785236400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0122",
     "status": "future"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 2)",
+    "name": "Codeforces Round 1113 (Div. 2)",
     "startTime": 1785584100,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2248",
@@ -96,6 +96,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+    "startTime": 1786026900,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2253",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 02",
     "startTime": 1786127400,
@@ -126,6 +134,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc226",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0121 Beta",
+    "startTime": 1785150000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0121",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
@@ -165,14 +181,6 @@
     "startTime": 1784980800,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc468",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0120 Beta",
-    "startTime": 1784890800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0120",
     "status": "recent"
   }
 ]
