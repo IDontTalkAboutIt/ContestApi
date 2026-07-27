@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 013 (Rated)",
-    "startTime": 1785159000,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY013",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0122 Beta",
     "startTime": 1785236400,
@@ -134,6 +126,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc226",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 013 (Rated)",
+    "startTime": 1785159000,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY013",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
