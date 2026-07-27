@@ -5,7 +5,7 @@
     "startTime": 1785150000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0121",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -109,6 +109,14 @@
     "startTime": 1786190400,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc470",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 514",
+    "startTime": 1786242600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-514",
     "status": "future"
   },
   {
