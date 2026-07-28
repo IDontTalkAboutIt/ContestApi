@@ -5,7 +5,7 @@
     "startTime": 1785236400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0122",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -32,14 +32,6 @@
     "status": "future"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1113 (Div. 2)",
-    "startTime": 1785584100,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2248",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 469",
     "startTime": 1785585600,
@@ -61,6 +53,14 @@
     "startTime": 1785594600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-188",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1113 (Div. 2)",
+    "startTime": 1785594900,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2248",
     "status": "future"
   },
   {
