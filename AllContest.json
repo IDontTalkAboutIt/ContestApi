@@ -1,11 +1,11 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0122 Beta",
-    "startTime": 1785236400,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0123 Beta",
+    "startTime": 1785322800,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0122",
-    "status": "running"
+    "url": "https://atcoder.jp/contests/awc0123",
+    "status": "future"
   },
   {
     "platform": "CodeChef",
@@ -128,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0122 Beta",
+    "startTime": 1785236400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0122",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 013 (Rated)",
     "startTime": 1785159000,
@@ -173,14 +181,6 @@
     "startTime": 1785033000,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-512",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 468",
-    "startTime": 1784980800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc468",
     "status": "recent"
   }
 ]
