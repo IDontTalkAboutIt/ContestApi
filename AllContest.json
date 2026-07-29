@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Starters 249 (Rated till 6 star)",
-    "startTime": 1785335400,
-    "duration": 9000,
-    "url": "https://www.codechef.com/START249",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0124 Beta",
     "startTime": 1785409200,
@@ -152,6 +144,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 249 (Rated till 6 star)",
+    "startTime": 1785335400,
+    "duration": 9000,
+    "url": "https://www.codechef.com/START249",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0123 Beta",
     "startTime": 1785322800,
@@ -189,22 +189,6 @@
     "startTime": 1784917800,
     "duration": 172800,
     "url": "https://www.codechef.com/DEVWEEKEND60",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1112 (Div. 1)",
-    "startTime": 1785076500,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2249",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1112 (Div. 2)",
-    "startTime": 1785076500,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2250",
     "status": "recent"
   }
 ]
