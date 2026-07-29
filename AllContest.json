@@ -182,13 +182,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0121",
     "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 60: LLD Projects",
-    "startTime": 1784917800,
-    "duration": 172800,
-    "url": "https://www.codechef.com/DEVWEEKEND60",
-    "status": "recent"
   }
 ]
