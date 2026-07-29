@@ -5,13 +5,13 @@
     "startTime": 1785322800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0123",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 249",
+    "name": "Starters 249 (Rated till 6 star)",
     "startTime": 1785335400,
-    "duration": 7200,
+    "duration": 9000,
     "url": "https://www.codechef.com/START249",
     "status": "future"
   },
@@ -69,6 +69,14 @@
     "startTime": 1785637800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-513",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 014 (Rated)",
+    "startTime": 1785763800,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY014",
     "status": "future"
   },
   {
