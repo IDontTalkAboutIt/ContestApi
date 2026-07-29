@@ -5,7 +5,7 @@
     "startTime": 1785335400,
     "duration": 9000,
     "url": "https://www.codechef.com/START249",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -141,6 +141,14 @@
     "startTime": 1786276800,
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc226",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 251",
+    "startTime": 1786545000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START251",
     "status": "future"
   },
   {
