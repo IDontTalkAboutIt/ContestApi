@@ -174,13 +174,5 @@
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2250",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 512",
-    "startTime": 1785033000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-512",
-    "status": "recent"
   }
 ]
