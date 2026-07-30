@@ -1,18 +1,18 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0124 Beta",
-    "startTime": 1785409200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0124",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
     "startTime": 1785492000,
     "duration": 864000,
     "url": "https://atcoder.jp/contests/ahc069",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0125 Beta",
+    "startTime": 1785495600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0125",
     "status": "future"
   },
   {
@@ -144,6 +144,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0124 Beta",
+    "startTime": 1785409200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0124",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 249 (Rated till 6 star)",
     "startTime": 1785335400,
@@ -173,14 +181,6 @@
     "startTime": 1785159000,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY013",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0121 Beta",
-    "startTime": 1785150000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0121",
     "status": "recent"
   }
 ]
