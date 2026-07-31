@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0125 Beta",
-    "startTime": 1785495600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0125",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 01",
     "startTime": 1785522600,
@@ -61,6 +53,14 @@
     "startTime": 1785637800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-513",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0126 Beta",
+    "startTime": 1785754800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0126",
     "status": "future"
   },
   {
@@ -145,6 +145,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0125 Beta",
+    "startTime": 1785495600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0125",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0124 Beta",
     "startTime": 1785409200,
     "duration": 3600,
@@ -165,14 +173,6 @@
     "startTime": 1785322800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0123",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0122 Beta",
-    "startTime": 1785236400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0122",
     "status": "recent"
   }
 ]
