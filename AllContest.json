@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 469",
-    "startTime": 1785585600,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc469",
-    "status": "running"
-  },
-  {
     "platform": "HackerRank",
     "name": "HackerRank Orchestrate August'26",
     "startTime": 1785587400,
@@ -29,7 +21,7 @@
     "startTime": 1785594600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-188",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeForces",
@@ -37,7 +29,7 @@
     "startTime": 1785594900,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2248",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -142,6 +134,22 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc471",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 189",
+    "startTime": 1786804200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-189",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 469",
+    "startTime": 1785585600,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc469",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
