@@ -13,7 +13,7 @@
     "startTime": 1785585600,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc469",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "HackerRank",
@@ -21,7 +21,7 @@
     "startTime": 1785587400,
     "duration": 86400,
     "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-august26/challenges",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -76,7 +76,7 @@
     "name": "Starters 250",
     "startTime": 1785940200,
     "duration": 7200,
-    "url": "https://www.codechef.com/START250D",
+    "url": "https://www.codechef.com/START250",
     "status": "future"
   },
   {
@@ -132,7 +132,15 @@
     "name": "Starters 251",
     "startTime": 1786545000,
     "duration": 7200,
-    "url": "https://www.codechef.com/START251D",
+    "url": "https://www.codechef.com/START251",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 471",
+    "startTime": 1786795200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc471",
     "status": "future"
   },
   {
@@ -165,14 +173,6 @@
     "startTime": 1785335400,
     "duration": 9000,
     "url": "https://www.codechef.com/START249",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0123 Beta",
-    "startTime": 1785322800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0123",
     "status": "recent"
   }
 ]
