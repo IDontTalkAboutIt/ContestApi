@@ -16,14 +16,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1113 (Div. 2)",
-    "startTime": 1785594900,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2248",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 513",
     "startTime": 1785637800,
@@ -136,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1113 (Div. 2)",
+    "startTime": 1785594900,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2248",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 188",
     "startTime": 1785594600,
@@ -173,14 +173,6 @@
     "startTime": 1785409200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0124",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 249 (Rated till 6 star)",
-    "startTime": 1785335400,
-    "duration": 9000,
-    "url": "https://www.codechef.com/START249",
     "status": "recent"
   }
 ]
