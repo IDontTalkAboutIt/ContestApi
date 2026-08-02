@@ -96,6 +96,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 1)",
+    "startTime": 1786286100,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2255",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1786286100,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2256",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 251",
     "startTime": 1786545000,
