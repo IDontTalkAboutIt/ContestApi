@@ -16,14 +16,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 513",
-    "startTime": 1785637800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-513",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0126 Beta",
     "startTime": 1785754800,
@@ -126,6 +118,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-189",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 513",
+    "startTime": 1785637800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-513",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
