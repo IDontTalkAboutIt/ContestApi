@@ -13,7 +13,7 @@
     "startTime": 1785754800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0126",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -91,7 +91,7 @@
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 1)",
     "startTime": 1786286100,
-    "duration": 7200,
+    "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2255",
     "status": "future"
   },
@@ -99,7 +99,7 @@
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 2)",
     "startTime": 1786286100,
-    "duration": 7200,
+    "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2256",
     "status": "future"
   },
