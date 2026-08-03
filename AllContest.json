@@ -190,13 +190,5 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc469",
     "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 01",
-    "startTime": 1785522600,
-    "duration": 7200,
-    "url": "https://www.codechef.com/PLACEPREP01",
-    "status": "recent"
   }
 ]
