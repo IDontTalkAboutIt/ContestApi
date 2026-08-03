@@ -104,6 +104,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+    "startTime": 1786705200,
+    "duration": 1209600,
+    "url": "https://codeforces.com/contestRegistration/2251",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 471",
     "startTime": 1786795200,
