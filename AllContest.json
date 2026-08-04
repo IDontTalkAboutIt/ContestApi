@@ -13,7 +13,7 @@
     "startTime": 1785841200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0127",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeForces",
@@ -81,7 +81,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 1)",
+    "name": "Codeforces Round 1116 (Div. 1)",
     "startTime": 1786286100,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2255",
@@ -89,7 +89,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 2)",
+    "name": "Codeforces Round 1116 (Div. 2)",
     "startTime": 1786286100,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2256",
