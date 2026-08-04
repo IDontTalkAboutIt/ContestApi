@@ -8,19 +8,19 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0127 Beta",
-    "startTime": 1785841200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0127",
-    "status": "running"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1114 (Div. 3)",
     "startTime": 1785854100,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2254",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0128 Beta",
+    "startTime": 1785927600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0128",
     "status": "future"
   },
   {
@@ -136,6 +136,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0127 Beta",
+    "startTime": 1785841200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0127",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 014 (Rated)",
     "startTime": 1785763800,
@@ -181,14 +189,6 @@
     "startTime": 1785594600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-188",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 469",
-    "startTime": 1785585600,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc469",
     "status": "recent"
   }
 ]
