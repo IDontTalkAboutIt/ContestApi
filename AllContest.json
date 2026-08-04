@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1114 (Div. 3)",
-    "startTime": 1785854100,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2254",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0128 Beta",
     "startTime": 1785927600,
@@ -136,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1114 (Div. 3)",
+    "startTime": 1785854100,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2254",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0127 Beta",
     "startTime": 1785841200,
@@ -173,22 +173,6 @@
     "startTime": 1785637800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-513",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1113 (Div. 2)",
-    "startTime": 1785594900,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2248",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 188",
-    "startTime": 1785594600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-188",
     "status": "recent"
   }
 ]
