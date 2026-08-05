@@ -12,8 +12,8 @@
     "name": "Starters 250 (Rated till 5 star)",
     "startTime": 1785940200,
     "duration": 7200,
-    "url": "https://www.codechef.com/START250D",
-    "status": "future"
+    "url": "https://www.codechef.com/START250",
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -100,7 +100,7 @@
     "name": "Starters 251",
     "startTime": 1786545000,
     "duration": 7200,
-    "url": "https://www.codechef.com/START251D",
+    "url": "https://www.codechef.com/START251",
     "status": "future"
   },
   {
