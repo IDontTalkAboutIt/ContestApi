@@ -13,14 +13,14 @@
     "startTime": 1785927600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0128",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 250",
+    "name": "Starters 250 (Rated till 5 star)",
     "startTime": 1785940200,
     "duration": 7200,
-    "url": "https://www.codechef.com/START250D",
+    "url": "https://www.codechef.com/START250",
     "status": "future"
   },
   {
@@ -43,7 +43,7 @@
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 02",
     "startTime": 1786127400,
-    "duration": 7200,
+    "duration": 10800,
     "url": "https://www.codechef.com/PLACEPREP02",
     "status": "future"
   },
@@ -89,10 +89,18 @@
   },
   {
     "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 015 (Rated)",
+    "startTime": 1786368600,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY015",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
     "name": "Starters 251",
     "startTime": 1786545000,
     "duration": 7200,
-    "url": "https://www.codechef.com/START251D",
+    "url": "https://www.codechef.com/START251",
     "status": "future"
   },
   {
