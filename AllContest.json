@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeChef",
-    "name": "Starters 250 (Rated till 5 star)",
-    "startTime": 1785940200,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START250",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0129 Beta",
     "startTime": 1786014000,
@@ -134,6 +126,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc227",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 250 (Rated till 5 star)",
+    "startTime": 1785940200,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START250",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
