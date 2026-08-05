@@ -8,19 +8,19 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0128 Beta",
-    "startTime": 1785927600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0128",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Starters 250 (Rated till 5 star)",
     "startTime": 1785940200,
     "duration": 7200,
-    "url": "https://www.codechef.com/START250",
+    "url": "https://www.codechef.com/START250D",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0129 Beta",
+    "startTime": 1786014000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0129",
     "status": "future"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Starters 251",
     "startTime": 1786545000,
     "duration": 7200,
-    "url": "https://www.codechef.com/START251",
+    "url": "https://www.codechef.com/START251D",
     "status": "future"
   },
   {
@@ -136,6 +136,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0128 Beta",
+    "startTime": 1785927600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0128",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1114 (Div. 3)",
     "startTime": 1785854100,
@@ -165,14 +173,6 @@
     "startTime": 1785754800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0126",
-    "status": "recent"
-  },
-  {
-    "platform": "HackerRank",
-    "name": "HackerRank Orchestrate August'26",
-    "startTime": 1785587400,
-    "duration": 86400,
-    "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-august26/challenges",
     "status": "recent"
   }
 ]
