@@ -92,7 +92,7 @@
     "name": "Starters 251",
     "startTime": 1786545000,
     "duration": 7200,
-    "url": "https://www.codechef.com/START251",
+    "url": "https://www.codechef.com/START251D",
     "status": "future"
   },
   {
@@ -117,6 +117,14 @@
     "startTime": 1786804200,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-189",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 515",
+    "startTime": 1786847400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-515",
     "status": "future"
   },
   {
