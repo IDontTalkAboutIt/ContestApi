@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
-    "startTime": 1786113300,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2253",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 02",
     "startTime": 1786127400,
@@ -126,6 +118,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc227",
     "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+    "startTime": 1786113300,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2253",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
