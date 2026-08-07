@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0130 Beta",
-    "startTime": 1786100400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0130",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
     "startTime": 1786113300,
@@ -69,6 +61,14 @@
     "startTime": 1786286100,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2256",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0131 Beta",
+    "startTime": 1786359600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0131",
     "status": "future"
   },
   {
@@ -128,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0130 Beta",
+    "startTime": 1786100400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0130",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1115 (Div. 2)",
     "startTime": 1786026900,
@@ -165,14 +173,6 @@
     "startTime": 1785854100,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2254",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0127 Beta",
-    "startTime": 1785841200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0127",
     "status": "recent"
   }
 ]
