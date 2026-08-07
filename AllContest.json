@@ -13,7 +13,7 @@
     "startTime": 1786127400,
     "duration": 10800,
     "url": "https://www.codechef.com/PLACEPREP02",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -165,14 +165,6 @@
     "startTime": 1785927600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0128",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1114 (Div. 3)",
-    "startTime": 1785854100,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2254",
     "status": "recent"
   }
 ]
