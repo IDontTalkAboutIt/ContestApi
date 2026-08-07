@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 02",
-    "startTime": 1786127400,
-    "duration": 10800,
-    "url": "https://www.codechef.com/PLACEPREP02",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
     "startTime": 1786190400,
@@ -118,6 +110,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc227",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 02",
+    "startTime": 1786127400,
+    "duration": 10800,
+    "url": "https://www.codechef.com/PLACEPREP02",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
