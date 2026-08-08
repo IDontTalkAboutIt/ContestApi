@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
-    "startTime": 1786190400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc470",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 514",
     "startTime": 1786242600,
@@ -118,6 +110,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc472",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+    "startTime": 1786190400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc470",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
