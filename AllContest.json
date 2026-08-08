@@ -1,10 +1,34 @@
 [
   {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
+    "startTime": 1785492000,
+    "duration": 864000,
+    "url": "https://atcoder.jp/contests/ahc069",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+    "startTime": 1786190400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc470",
+    "status": "future"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 514",
     "startTime": 1786242600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-514",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
+    "startTime": 1786276800,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc226",
     "status": "future"
   },
   {
@@ -21,6 +45,14 @@
     "startTime": 1786286100,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2256",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0131 Beta",
+    "startTime": 1786359600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0131",
     "status": "future"
   },
   {
@@ -48,6 +80,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 471",
+    "startTime": 1786795200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc471",
+    "status": "future"
+  },
+  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 189",
     "startTime": 1786804200,
@@ -61,6 +101,14 @@
     "startTime": 1786847400,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-515",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest 227",
+    "startTime": 1786881600,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc227",
     "status": "future"
   },
   {
