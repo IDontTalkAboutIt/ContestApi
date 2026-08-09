@@ -8,22 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1116 (Div. 1)",
-    "startTime": 1786286100,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2255",
-    "status": "running"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1116 (Div. 2)",
-    "startTime": 1786286100,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2256",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0131 Beta",
     "startTime": 1786359600,
@@ -104,6 +88,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1116 (Div. 1)",
+    "startTime": 1786286100,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2255",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1116 (Div. 2)",
+    "startTime": 1786286100,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2256",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
     "startTime": 1786276800,
@@ -149,14 +149,6 @@
     "startTime": 1786100400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0130",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1115 (Div. 2)",
-    "startTime": 1786026900,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2252",
     "status": "recent"
   }
 ]
