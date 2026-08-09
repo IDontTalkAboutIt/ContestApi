@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
-    "startTime": 1786276800,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc226",
-    "status": "running"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1116 (Div. 1)",
     "startTime": 1786286100,
@@ -110,6 +102,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc472",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
+    "startTime": 1786276800,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc226",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
