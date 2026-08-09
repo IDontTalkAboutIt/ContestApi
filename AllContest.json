@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 514",
-    "startTime": 1786242600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-514",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
     "startTime": 1786276800,
@@ -118,6 +110,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc472",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 514",
+    "startTime": 1786242600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-514",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
