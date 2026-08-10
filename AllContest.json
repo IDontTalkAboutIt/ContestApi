@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0131 Beta",
-    "startTime": 1786359600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0131",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 015 (Rated)",
     "startTime": 1786368600,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY015",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0132 Beta",
+    "startTime": 1786446000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0132",
     "status": "future"
   },
   {
@@ -81,6 +81,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0131 Beta",
+    "startTime": 1786359600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0131",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
     "startTime": 1785492000,
     "duration": 864000,
@@ -141,14 +149,6 @@
     "startTime": 1786113300,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2253",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0130 Beta",
-    "startTime": 1786100400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0130",
     "status": "recent"
   }
 ]
