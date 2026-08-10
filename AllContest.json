@@ -1,19 +1,11 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
-    "startTime": 1785492000,
-    "duration": 864000,
-    "url": "https://atcoder.jp/contests/ahc069",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0131 Beta",
     "startTime": 1786359600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0131",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -86,6 +78,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc472",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
+    "startTime": 1785492000,
+    "duration": 864000,
+    "url": "https://atcoder.jp/contests/ahc069",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
