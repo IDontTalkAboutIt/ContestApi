@@ -24,6 +24,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 03",
+    "startTime": 1786732200,
+    "duration": 7200,
+    "url": "https://www.codechef.com/PLACEPREP03",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 471",
     "startTime": 1786795200,
