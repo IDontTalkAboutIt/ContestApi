@@ -142,13 +142,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-514",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
-    "startTime": 1786190400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc470",
-    "status": "recent"
   }
 ]
