@@ -9,7 +9,7 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 251",
+    "name": "Starters 251 (Rated till 6 stars)",
     "startTime": 1786545000,
     "duration": 7200,
     "url": "https://www.codechef.com/START251",
@@ -133,14 +133,6 @@
     "startTime": 1786276800,
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc226",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 514",
-    "startTime": 1786242600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-514",
     "status": "recent"
   }
 ]
