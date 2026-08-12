@@ -5,7 +5,7 @@
     "startTime": 1786545000,
     "duration": 7200,
     "url": "https://www.codechef.com/START251",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -141,14 +141,6 @@
     "startTime": 1786286100,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2256",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
-    "startTime": 1786276800,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc226",
     "status": "recent"
   }
 ]
