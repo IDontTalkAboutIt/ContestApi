@@ -126,21 +126,5 @@
     "duration": 864000,
     "url": "https://atcoder.jp/contests/ahc069",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1116 (Div. 1)",
-    "startTime": 1786286100,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2255",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1116 (Div. 2)",
-    "startTime": 1786286100,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2256",
-    "status": "recent"
   }
 ]
