@@ -118,13 +118,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0131",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
-    "startTime": 1785492000,
-    "duration": 864000,
-    "url": "https://atcoder.jp/contests/ahc069",
-    "status": "recent"
   }
 ]
