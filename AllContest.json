@@ -13,7 +13,7 @@
     "startTime": 1786795200,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc471",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -80,6 +80,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 473",
+    "startTime": 1788004800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc473",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 03",
     "startTime": 1786732200,
@@ -109,14 +117,6 @@
     "startTime": 1786545000,
     "duration": 7200,
     "url": "https://www.codechef.com/START251",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0133 Beta",
-    "startTime": 1786532400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0133",
     "status": "recent"
   }
 ]
