@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 471",
-    "startTime": 1786795200,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc471",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 189",
     "startTime": 1786804200,
@@ -86,6 +78,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc473",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 471",
+    "startTime": 1786795200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc471",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
