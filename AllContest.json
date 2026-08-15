@@ -9,14 +9,6 @@
   },
   {
     "platform": "LeetCode",
-    "name": "Biweekly Contest 189",
-    "startTime": 1786804200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-189",
-    "status": "future"
-  },
-  {
-    "platform": "LeetCode",
     "name": "Weekly Contest 515",
     "startTime": 1786847400,
     "duration": 5400,
@@ -78,6 +70,22 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc473",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 190",
+    "startTime": 1788013800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-190",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 189",
+    "startTime": 1786804200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-189",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
