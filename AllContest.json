@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 515",
-    "startTime": 1786847400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-515",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest 227",
     "startTime": 1786881600,
@@ -56,6 +48,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 516",
+    "startTime": 1787452200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-516",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
     "startTime": 1787983200,
@@ -78,6 +78,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-190",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 515",
+    "startTime": 1786847400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-515",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
