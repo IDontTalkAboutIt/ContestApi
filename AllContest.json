@@ -24,6 +24,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 04",
+    "startTime": 1787337042,
+    "duration": 7200,
+    "url": "https://www.codechef.com/PLACEPREP04",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 472",
     "startTime": 1787400000,
@@ -125,14 +133,6 @@
     "startTime": 1786804200,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-189",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 471",
-    "startTime": 1786795200,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc471",
     "status": "recent"
   }
 ]
