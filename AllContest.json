@@ -126,13 +126,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0136",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest 227",
-    "startTime": 1786881600,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc227",
-    "status": "recent"
   }
 ]
