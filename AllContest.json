@@ -1,5 +1,13 @@
 [
   {
+    "platform": "CodeForces",
+    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+    "startTime": 1786705200,
+    "duration": 1209600,
+    "url": "https://codeforces.com/contestRegistration/2251",
+    "status": "running"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0140 Beta",
     "startTime": 1787310000,
@@ -69,6 +77,14 @@
     "startTime": 1788013800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-190",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1788014100,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2258",
     "status": "future"
   },
   {
