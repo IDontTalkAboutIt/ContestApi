@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 04",
-    "startTime": 1787337042,
-    "duration": 7200,
-    "url": "https://www.codechef.com/PLACEPREP04",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 472",
     "startTime": 1787400000,
@@ -94,6 +86,14 @@
     "duration": 9000,
     "url": "https://atcoder.jp/contests/arc228",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 04",
+    "startTime": 1787337042,
+    "duration": 7200,
+    "url": "https://www.codechef.com/PLACEPREP04",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
