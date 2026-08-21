@@ -89,6 +89,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 228",
+    "startTime": 1788091200,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc228",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0139 Beta",
     "startTime": 1787223600,
     "duration": 3600,
