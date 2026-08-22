@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 472",
-    "startTime": 1787400000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc472",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 516",
     "startTime": 1787452200,
@@ -80,6 +72,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 517",
+    "startTime": 1788057000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-517",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 228",
     "startTime": 1788091200,
@@ -94,6 +94,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc229",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 472",
+    "startTime": 1787400000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc472",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
