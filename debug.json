@@ -1,162 +1,138 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Weekend Dev Challenge 60: LLD Projects",
-    "startTime": 1785054600,
-    "duration": 172800,
-    "url": "https://www.codechef.com/DEVWEEKEND60",
+    "platform": "CodeForces",
+    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+    "startTime": 1787488200,
+    "duration": 1209600,
+    "url": "https://codeforces.com/contestRegistration/2251",
     "status": "future"
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 468",
-    "startTime": 1785054660,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0141 Beta",
+    "startTime": 1787488260,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0141",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 017 (Rated)",
+    "startTime": 1787488320,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY017",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 253",
+    "startTime": 1787488380,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START253",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
+    "startTime": 1787488440,
+    "duration": 14400,
+    "url": "https://atcoder.jp/contests/ahc070",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 473",
+    "startTime": 1787488500,
     "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc468",
+    "url": "https://atcoder.jp/contests/abc473",
     "status": "future"
   },
   {
     "platform": "LeetCode",
-    "name": "Weekly Contest 512",
-    "startTime": 1785054600,
+    "name": "Biweekly Contest 190",
+    "startTime": 1787488560,
     "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-512",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1112 (Div. 1)",
-    "startTime": 1785054780,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2249",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1112 (Div. 2)",
-    "startTime": 1785054600,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2250",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0121 Beta",
-    "startTime": 1785054900,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0121",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 013 (Rated)",
-    "startTime": 1785054960,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY013",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 249",
-    "startTime": 1785054900,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START249",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
-    "startTime": 1785055080,
-    "duration": 864000,
-    "url": "https://atcoder.jp/contests/ahc069",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 01",
-    "startTime": 1785055140,
-    "duration": 7200,
-    "url": "https://www.codechef.com/PLACEPREP01",
+    "url": "https://leetcode.com/contest/biweekly-contest-190",
     "status": "future"
   },
   {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 2)",
-    "startTime": 1785055200,
+    "startTime": 1787488620,
     "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2248",
+    "url": "https://codeforces.com/contestRegistration/2258",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 517",
+    "startTime": 1787488680,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-517",
     "status": "future"
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 469",
-    "startTime": 1785055260,
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 228",
+    "startTime": 1787488740,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc228",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest-- 229",
+    "startTime": 1787488800,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc229",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 474",
+    "startTime": 1787488860,
     "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc469",
-    "status": "future"
-  },
-  {
-    "platform": "HackerRank",
-    "name": "HackerRank Orchestrate August'26",
-    "startTime": 1785055200,
-    "duration": 86400,
-    "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-august26/challenges",
+    "url": "https://atcoder.jp/contests/abc474",
     "status": "future"
   },
   {
     "platform": "LeetCode",
-    "name": "Biweekly Contest 188",
-    "startTime": 1785055380,
+    "name": "Weekly Contest 516",
+    "startTime": 1787488920,
     "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-188",
+    "url": "https://leetcode.com/contest/weekly-contest-516",
     "status": "future"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 513",
-    "startTime": 1785055440,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-513",
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 472",
+    "startTime": 1787488980,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc472",
     "status": "future"
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 250",
-    "startTime": 1785055500,
+    "name": "Placement Prep Weekends - 04",
+    "startTime": 1787489040,
     "duration": 7200,
-    "url": "https://www.codechef.com/START250",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 02",
-    "startTime": 1785055560,
-    "duration": 7200,
-    "url": "https://www.codechef.com/PLACEPREP02",
+    "url": "https://www.codechef.com/PLACEPREP04",
     "status": "future"
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0120 Beta",
-    "startTime": 1785055620,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0140 Beta",
+    "startTime": 1787489100,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0120",
+    "url": "https://atcoder.jp/contests/awc0140",
     "status": "future"
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0119 Beta",
-    "startTime": 1785055680,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0139 Beta",
+    "startTime": 1787489160,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0119",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0118 Beta",
-    "startTime": 1785055740,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0118",
+    "url": "https://atcoder.jp/contests/awc0139",
     "status": "future"
   }
 ]
