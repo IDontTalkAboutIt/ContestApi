@@ -126,13 +126,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-516",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 472",
-    "startTime": 1787400000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc472",
-    "status": "recent"
   }
 ]
