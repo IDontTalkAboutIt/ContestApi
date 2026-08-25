@@ -88,6 +88,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 3)",
+    "startTime": 1788618900,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2259",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 474",
     "startTime": 1788667800,
