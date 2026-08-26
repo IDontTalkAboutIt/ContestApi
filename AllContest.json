@@ -17,10 +17,18 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 253",
+    "name": "Starters 253 (Rated till 6 star)",
     "startTime": 1787754600,
     "duration": 7200,
     "url": "https://www.codechef.com/START253",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 05",
+    "startTime": 1787941826,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP05",
     "status": "future"
   },
   {
