@@ -126,13 +126,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0141",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 516",
-    "startTime": 1787452200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-516",
-    "status": "recent"
   }
 ]
