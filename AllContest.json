@@ -1,21 +1,5 @@
 [
   {
-    "platform": "CodeForces",
-    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
-    "startTime": 1786705200,
-    "duration": 1209600,
-    "url": "https://codeforces.com/contestRegistration/2251",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0145 Beta",
-    "startTime": 1787914800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0145",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 05",
     "startTime": 1787941826,
@@ -69,6 +53,14 @@
     "startTime": 1788091200,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/arc228",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0146 Beta",
+    "startTime": 1788174000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0146",
     "status": "future"
   },
   {
@@ -129,6 +121,22 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0145 Beta",
+    "startTime": 1787914800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0145",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+    "startTime": 1786705200,
+    "duration": 1209600,
+    "url": "https://codeforces.com/contestRegistration/2251",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0144 Beta",
     "startTime": 1787828400,
     "duration": 3600,
@@ -149,14 +157,6 @@
     "startTime": 1787742000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0143",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0142 Beta",
-    "startTime": 1787655600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0142",
     "status": "recent"
   }
 ]
