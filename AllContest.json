@@ -1,27 +1,11 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
-    "startTime": 1787983200,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc070",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 473",
-    "startTime": 1788004800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc473",
-    "status": "future"
-  },
-  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 190",
     "startTime": 1788013800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-190",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeForces",
@@ -29,7 +13,7 @@
     "startTime": 1788014100,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2258",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -120,6 +104,46 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 475",
+    "startTime": 1789214400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc475",
+    "status": "future"
+  },
+  {
+    "platform": "HackerRank",
+    "name": "Orchestrate September'26",
+    "startTime": 1789216200,
+    "duration": 86400,
+    "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-september26/challenges",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 191",
+    "startTime": 1789223400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-191",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 473",
+    "startTime": 1788004800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc473",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
+    "startTime": 1787983200,
+    "duration": 14400,
+    "url": "https://atcoder.jp/contests/ahc070",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 05",
     "startTime": 1787941826,
@@ -157,14 +181,6 @@
     "startTime": 1787754600,
     "duration": 7200,
     "url": "https://www.codechef.com/START253",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0143 Beta",
-    "startTime": 1787742000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0143",
     "status": "recent"
   }
 ]
