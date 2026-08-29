@@ -5,7 +5,7 @@
     "startTime": 1787983200,
     "duration": 14400,
     "url": "https://atcoder.jp/contests/ahc070",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -85,6 +85,14 @@
     "startTime": 1788618900,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2259",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 518",
+    "startTime": 1788661800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-518",
     "status": "future"
   },
   {
