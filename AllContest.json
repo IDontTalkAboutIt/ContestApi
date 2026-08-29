@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 05",
-    "startTime": 1787941826,
-    "duration": 9000,
-    "url": "https://www.codechef.com/PLACEPREP05",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
     "startTime": 1787983200,
@@ -118,6 +110,14 @@
     "duration": 7200,
     "url": "https://www.codechef.com/START255",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 05",
+    "startTime": 1787941826,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP05",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
