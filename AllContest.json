@@ -1,13 +1,5 @@
 [
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 517",
-    "startTime": 1788057000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-517",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 228",
     "startTime": 1788091200,
@@ -110,6 +102,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-191",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 517",
+    "startTime": 1788057000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-517",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
