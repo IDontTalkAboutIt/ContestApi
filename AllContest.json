@@ -1,18 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0146 Beta",
-    "startTime": 1788174000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0147 Beta",
+    "startTime": 1788260400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0146",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 018 (Rated)",
-    "startTime": 1788183000,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY018",
+    "url": "https://atcoder.jp/contests/awc0147",
     "status": "future"
   },
   {
@@ -104,6 +96,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 018 (Rated)",
+    "startTime": 1788183000,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY018",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0146 Beta",
+    "startTime": 1788174000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0146",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 228",
     "startTime": 1788091200,
@@ -157,22 +165,6 @@
     "startTime": 1787941826,
     "duration": 9000,
     "url": "https://www.codechef.com/PLACEPREP05",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0145 Beta",
-    "startTime": 1787914800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0145",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
-    "startTime": 1786705200,
-    "duration": 1209600,
-    "url": "https://codeforces.com/contestRegistration/2251",
     "status": "recent"
   }
 ]
