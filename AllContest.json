@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0147 Beta",
-    "startTime": 1788260400,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0148 Beta",
+    "startTime": 1788346800,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0147",
+    "url": "https://atcoder.jp/contests/awc0148",
     "status": "future"
   },
   {
@@ -96,6 +96,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0147 Beta",
+    "startTime": 1788260400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0147",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 018 (Rated)",
     "startTime": 1788183000,
@@ -141,22 +149,6 @@
     "startTime": 1788013800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-190",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 473",
-    "startTime": 1788004800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc473",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
-    "startTime": 1787983200,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc070",
     "status": "recent"
   }
 ]
