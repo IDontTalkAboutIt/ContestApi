@@ -134,21 +134,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-517",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1118 (Div. 2)",
-    "startTime": 1788014100,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2258",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 190",
-    "startTime": 1788013800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-190",
-    "status": "recent"
   }
 ]
