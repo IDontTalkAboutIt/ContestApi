@@ -16,6 +16,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 06",
+    "startTime": 1788546615,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP06",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest-- 229",
     "startTime": 1788609600,
@@ -125,14 +133,6 @@
     "startTime": 1788091200,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/arc228",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 517",
-    "startTime": 1788057000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-517",
     "status": "recent"
   }
 ]
