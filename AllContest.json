@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Starters 254 (Rated till 6 star)",
-    "startTime": 1788359400,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START254",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0149 Beta",
     "startTime": 1788433200,
@@ -32,6 +24,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1119 (Div. 3)",
+    "startTime": 1788618900,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2259",
+    "status": "future"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 518",
     "startTime": 1788661800,
@@ -53,6 +53,14 @@
     "startTime": 1788787806,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY019",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
+    "startTime": 1788878100,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2260",
     "status": "future"
   },
   {
@@ -96,6 +104,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 256",
+    "startTime": 1789569000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START256",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 254 (Rated till 6 star)",
+    "startTime": 1788359400,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START254",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0148 Beta",
     "startTime": 1788346800,
@@ -125,14 +149,6 @@
     "startTime": 1788174000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0146",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 228",
-    "startTime": 1788091200,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc228",
     "status": "recent"
   }
 ]
