@@ -24,14 +24,6 @@
     "status": "future"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1119 (Div. 3)",
-    "startTime": 1788618900,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2259",
-    "status": "future"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 518",
     "startTime": 1788661800,
@@ -53,14 +45,6 @@
     "startTime": 1788787806,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY019",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
-    "startTime": 1788878100,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2260",
     "status": "future"
   },
   {
