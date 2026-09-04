@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 06",
-    "startTime": 1788546615,
-    "duration": 9000,
-    "url": "https://www.codechef.com/PLACEPREP06",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest-- 229",
     "startTime": 1788609600,
@@ -134,6 +126,14 @@
     "duration": 7200,
     "url": "https://www.codechef.com/START256",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 06",
+    "startTime": 1788546615,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP06",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
