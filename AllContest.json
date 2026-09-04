@@ -48,6 +48,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ 第七回日本最強プログラマー学生選手権～Advance～",
+    "startTime": 1788667800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/jsc2026advance-final",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 019 (Rated)",
     "startTime": 1788787806,
