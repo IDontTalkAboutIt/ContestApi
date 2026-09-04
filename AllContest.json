@@ -5,7 +5,7 @@
     "startTime": 1788546615,
     "duration": 9000,
     "url": "https://www.codechef.com/PLACEPREP06",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -21,6 +21,14 @@
     "startTime": 1788618900,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2259",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 518",
+    "startTime": 1788661800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-518",
     "status": "future"
   },
   {
@@ -85,6 +93,14 @@
     "startTime": 1789216200,
     "duration": 86400,
     "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-september26/challenges",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 191",
+    "startTime": 1789223400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-191",
     "status": "future"
   },
   {
