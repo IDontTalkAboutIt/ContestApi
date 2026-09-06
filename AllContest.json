@@ -113,6 +113,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 230",
+    "startTime": 1789905600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc230",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 474",
     "startTime": 1788667800,
     "duration": 6000,
@@ -165,14 +173,6 @@
     "startTime": 1788519600,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/awc0150",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0149 Beta",
-    "startTime": 1788433200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0149",
     "status": "recent"
   }
 ]
