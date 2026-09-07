@@ -112,6 +112,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 520",
+    "startTime": 1789871400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-520",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 230",
     "startTime": 1789905600,
