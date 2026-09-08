@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0152 Beta",
-    "startTime": 1788865200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0152",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
     "startTime": 1788878100,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2260",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0153 Beta",
+    "startTime": 1788951600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0153",
     "status": "future"
   },
   {
@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0152 Beta",
+    "startTime": 1788865200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0152",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 019 (Rated)",
     "startTime": 1788787806,
@@ -165,14 +173,6 @@
     "startTime": 1788618900,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2259",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest-- 229",
-    "startTime": 1788609600,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc229",
     "status": "recent"
   }
 ]
