@@ -9,10 +9,18 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 255",
+    "name": "Starters 255 (Rated still 6 stars)",
     "startTime": 1788964200,
     "duration": 7200,
     "url": "https://www.codechef.com/START255",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 07",
+    "startTime": 1789151425,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP07",
     "status": "future"
   },
   {
@@ -141,30 +149,6 @@
     "startTime": 1788778800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0151",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 474",
-    "startTime": 1788667800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc474",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ 第七回日本最強プログラマー学生選手権～Advance～",
-    "startTime": 1788667800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/jsc2026advance-final",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 518",
-    "startTime": 1788661800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-518",
     "status": "recent"
   }
 ]
