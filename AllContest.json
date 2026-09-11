@@ -166,13 +166,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0153",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
-    "startTime": 1788878100,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2260",
-    "status": "recent"
   }
 ]
