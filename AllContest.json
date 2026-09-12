@@ -8,22 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1120 (Div. 1)",
-    "startTime": 1789223700,
-    "duration": 10800,
-    "url": "https://codeforces.com/contestRegistration/2262",
-    "status": "running"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1120 (Div. 2)",
-    "startTime": 1789223700,
-    "duration": 10800,
-    "url": "https://codeforces.com/contestRegistration/2263",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 519",
     "startTime": 1789266600,
@@ -126,6 +110,22 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-192",
     "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1120 (Div. 1)",
+    "startTime": 1789223700,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2262",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1120 (Div. 2)",
+    "startTime": 1789223700,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2263",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
