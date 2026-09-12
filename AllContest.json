@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 475",
-    "startTime": 1789214400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc475",
-    "status": "running"
-  },
-  {
     "platform": "HackerRank",
     "name": "Orchestrate September'26",
     "startTime": 1789216200,
@@ -16,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 191",
-    "startTime": 1789223400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-191",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1120 (Div. 1)",
     "startTime": 1789223700,
     "duration": 10800,
     "url": "https://codeforces.com/contestRegistration/2262",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeForces",
@@ -37,7 +21,7 @@
     "startTime": 1789223700,
     "duration": 10800,
     "url": "https://codeforces.com/contestRegistration/2263",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -136,6 +120,30 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 192",
+    "startTime": 1790433000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-192",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 191",
+    "startTime": 1789223400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-191",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 475",
+    "startTime": 1789214400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc475",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 07",
     "startTime": 1789151425,
@@ -157,14 +165,6 @@
     "startTime": 1789038000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0154",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 255 (Rated still 6 stars)",
-    "startTime": 1788964200,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START255",
     "status": "recent"
   }
 ]
