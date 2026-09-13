@@ -1,19 +1,11 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ AtCoder Heuristic Contest 071",
-    "startTime": 1789293600,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc071",
-    "status": "running"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1121 (Div. 2)",
     "startTime": 1789319100,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2264",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -102,6 +94,14 @@
     "duration": 12600,
     "url": "https://atcoder.jp/contests/agc078",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ AtCoder Heuristic Contest 071",
+    "startTime": 1789293600,
+    "duration": 14400,
+    "url": "https://atcoder.jp/contests/ahc071",
+    "status": "recent"
   },
   {
     "platform": "HackerRank",
