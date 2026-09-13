@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 519",
-    "startTime": 1789266600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-519",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ AtCoder Heuristic Contest 071",
     "startTime": 1789293600,
@@ -110,6 +102,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-192",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 519",
+    "startTime": 1789266600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-519",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
