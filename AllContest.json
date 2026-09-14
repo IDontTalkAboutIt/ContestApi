@@ -80,6 +80,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 521",
+    "startTime": 1790476200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-521",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Grand Contest 078",
     "startTime": 1790510400,
