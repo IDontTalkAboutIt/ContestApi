@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0157 Beta",
-    "startTime": 1789470000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0158 Beta",
+    "startTime": 1789556400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0157",
+    "url": "https://atcoder.jp/contests/awc0158",
     "status": "future"
   },
   {
@@ -64,6 +64,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1790346900,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2267",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
     "startTime": 1790424000,
@@ -94,6 +102,14 @@
     "duration": 12600,
     "url": "https://atcoder.jp/contests/agc078",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0157 Beta",
+    "startTime": 1789470000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0157",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
