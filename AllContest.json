@@ -158,37 +158,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-519",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1120 (Div. 1)",
-    "startTime": 1789223700,
-    "duration": 10800,
-    "url": "https://codeforces.com/contestRegistration/2262",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1120 (Div. 2)",
-    "startTime": 1789223700,
-    "duration": 10800,
-    "url": "https://codeforces.com/contestRegistration/2263",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 191",
-    "startTime": 1789223400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-191",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 475",
-    "startTime": 1789214400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc475",
-    "status": "recent"
   }
 ]
