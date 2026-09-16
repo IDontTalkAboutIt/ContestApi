@@ -150,13 +150,5 @@
     "duration": 86400,
     "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-september26/challenges",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 519",
-    "startTime": 1789266600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-519",
-    "status": "recent"
   }
 ]
