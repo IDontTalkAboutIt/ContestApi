@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0159 Beta",
-    "startTime": 1789642800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0160 Beta",
+    "startTime": 1789729200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0159",
+    "url": "https://atcoder.jp/contests/awc0160",
     "status": "future"
   },
   {
@@ -136,6 +136,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0159 Beta",
+    "startTime": 1789642800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0159",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 256 (Rated till 5 star)",
     "startTime": 1789569000,
@@ -165,14 +173,6 @@
     "startTime": 1789392600,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY020",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0156 Beta",
-    "startTime": 1789383600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0156",
     "status": "recent"
   }
 ]
