@@ -166,13 +166,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0157",
     "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 020 (Rated)",
-    "startTime": 1789392600,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY020",
-    "status": "recent"
   }
 ]
