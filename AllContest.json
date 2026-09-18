@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0160 Beta",
-    "startTime": 1789729200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0160",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 08",
     "startTime": 1789756203,
@@ -37,6 +29,14 @@
     "startTime": 1789905600,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/arc230",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0161 Beta",
+    "startTime": 1789988400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0161",
     "status": "future"
   },
   {
@@ -137,6 +137,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0160 Beta",
+    "startTime": 1789729200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0160",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0159 Beta",
     "startTime": 1789642800,
     "duration": 3600,
@@ -157,14 +165,6 @@
     "startTime": 1789556400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0158",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0157 Beta",
-    "startTime": 1789470000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0157",
     "status": "recent"
   }
 ]
