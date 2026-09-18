@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 08",
-    "startTime": 1789756203,
-    "duration": 9000,
-    "url": "https://www.codechef.com/PLACEPREP08",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
     "startTime": 1789819200,
@@ -134,6 +126,14 @@
     "duration": 7200,
     "url": "https://www.codechef.com/START258",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 08",
+    "startTime": 1789756203,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP08",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
