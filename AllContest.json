@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
-    "startTime": 1789819200,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc476",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 520",
     "startTime": 1789871400,
@@ -136,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
+    "startTime": 1789819200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc476",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 08",
     "startTime": 1789756203,
@@ -157,14 +157,6 @@
     "startTime": 1789642800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0159",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 256 (Rated till 5 star)",
-    "startTime": 1789569000,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START256",
     "status": "recent"
   }
 ]
