@@ -1,14 +1,6 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 230",
-    "startTime": 1789905600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc230",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0161 Beta",
     "startTime": 1789988400,
     "duration": 3600,
@@ -134,6 +126,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc231",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 230",
+    "startTime": 1789905600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc230",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
