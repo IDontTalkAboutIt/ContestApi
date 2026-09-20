@@ -1,13 +1,5 @@
 [
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 520",
-    "startTime": 1789871400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-520",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 230",
     "startTime": 1789905600,
@@ -126,6 +118,22 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc478",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 522",
+    "startTime": 1791081000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-522",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 520",
+    "startTime": 1789871400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-520",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
