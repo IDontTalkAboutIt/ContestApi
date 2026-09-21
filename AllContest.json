@@ -1,21 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 021 (Rated)",
-    "startTime": 1789997400,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY021",
-    "status": "running"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1122 (Div. 3)",
-    "startTime": 1790001300,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2266",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0162 Beta",
     "startTime": 1790074800,
@@ -128,6 +112,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1122 (Div. 3)",
+    "startTime": 1790001300,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2266",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 021 (Rated)",
+    "startTime": 1789997400,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY021",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0161 Beta",
     "startTime": 1789988400,
@@ -157,14 +157,6 @@
     "startTime": 1789819200,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc476",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 08",
-    "startTime": 1789756203,
-    "duration": 9000,
-    "url": "https://www.codechef.com/PLACEPREP08",
     "status": "recent"
   }
 ]
