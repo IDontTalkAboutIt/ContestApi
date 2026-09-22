@@ -158,13 +158,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-520",
     "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
-    "startTime": 1789819200,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc476",
-    "status": "recent"
   }
 ]
