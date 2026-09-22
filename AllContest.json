@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0162 Beta",
-    "startTime": 1790074800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0163 Beta",
+    "startTime": 1790161200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0162",
+    "url": "https://atcoder.jp/contests/awc0163",
     "status": "future"
   },
   {
@@ -110,6 +110,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc231",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0162 Beta",
+    "startTime": 1790074800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0162",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
