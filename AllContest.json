@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Starters 257 (Rated till 6 Star)",
-    "startTime": 1790174700,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START257",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0164 Beta",
     "startTime": 1790247600,
@@ -27,7 +19,7 @@
     "platform": "CodeForces",
     "name": "Codeforces Round 1123 (Div. 2)",
     "startTime": 1790346900,
-    "duration": 7200,
+    "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2267",
     "status": "future"
   },
@@ -126,6 +118,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc231",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 257 (Rated till 6 Star)",
+    "startTime": 1790174700,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START257",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
