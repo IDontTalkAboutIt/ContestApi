@@ -32,6 +32,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 09",
+    "startTime": 1790361031,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP09",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
     "startTime": 1790424000,
@@ -77,6 +85,14 @@
     "startTime": 1790510400,
     "duration": 12600,
     "url": "https://atcoder.jp/contests/agc078",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 022 (Rated)",
+    "startTime": 1790602200,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY022",
     "status": "future"
   },
   {
@@ -149,14 +165,6 @@
     "startTime": 1789905600,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/arc230",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 520",
-    "startTime": 1789871400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-520",
     "status": "recent"
   }
 ]
