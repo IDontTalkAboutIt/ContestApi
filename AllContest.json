@@ -150,21 +150,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0162",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1122 (Div. 3)",
-    "startTime": 1790001300,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2266",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 021 (Rated)",
-    "startTime": 1789997400,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY021",
-    "status": "recent"
   }
 ]
