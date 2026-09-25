@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 09",
-    "startTime": 1790361031,
-    "duration": 9000,
-    "url": "https://www.codechef.com/PLACEPREP09",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
     "startTime": 1790424000,
@@ -110,6 +102,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc231",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 09",
+    "startTime": 1790361031,
+    "duration": 9000,
+    "url": "https://www.codechef.com/PLACEPREP09",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
