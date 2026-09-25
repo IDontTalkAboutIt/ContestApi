@@ -2,18 +2,10 @@
   {
     "platform": "AtCoder",
     "name": "Ⓗ◉ ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
-    "startTime": 1790330400,
-    "duration": 864000,
+    "startTime": 1790331000,
+    "duration": 863400,
     "url": "https://atcoder.jp/contests/ahc072",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0165 Beta",
-    "startTime": 1790334000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0165",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeForces",
@@ -21,7 +13,7 @@
     "startTime": 1790346900,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2267",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -80,6 +72,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0166 Beta",
+    "startTime": 1790593200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0166",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 022 (Rated)",
     "startTime": 1790602200,
@@ -121,6 +121,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0165 Beta",
+    "startTime": 1790334000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0165",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0164 Beta",
     "startTime": 1790247600,
     "duration": 3600,
@@ -141,14 +149,6 @@
     "startTime": 1790161200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0163",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0162 Beta",
-    "startTime": 1790074800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0162",
     "status": "recent"
   }
 ]
