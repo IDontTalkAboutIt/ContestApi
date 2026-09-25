@@ -8,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1123 (Div. 2)",
-    "startTime": 1790346900,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2267",
-    "status": "running"
-  },
-  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 09",
     "startTime": 1790361031,
     "duration": 9000,
     "url": "https://www.codechef.com/PLACEPREP09",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -118,6 +110,14 @@
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc231",
     "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1123 (Div. 2)",
+    "startTime": 1790346900,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2267",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
