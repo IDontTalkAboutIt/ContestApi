@@ -9,30 +9,6 @@
   },
   {
     "platform": "LeetCode",
-    "name": "Biweekly Contest 192",
-    "startTime": 1790433000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-192",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1124 (Div. 1)",
-    "startTime": 1790433300,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2268",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1124 (Div. 2)",
-    "startTime": 1790433300,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2269",
-    "status": "future"
-  },
-  {
-    "platform": "LeetCode",
     "name": "Weekly Contest 521",
     "startTime": 1790476200,
     "duration": 5400,
@@ -104,6 +80,46 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 193",
+    "startTime": 1791642600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-193",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 1 + Div. 2)",
+    "startTime": 1791644700,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2271",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1124 (Div. 1)",
+    "startTime": 1790433300,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2268",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1124 (Div. 2)",
+    "startTime": 1790433300,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2269",
+    "status": "recent"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 192",
+    "startTime": 1790433000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-192",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
     "startTime": 1790424000,
@@ -141,14 +157,6 @@
     "startTime": 1790247600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0164",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 257 (Rated till 6 Star)",
-    "startTime": 1790174700,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START257",
     "status": "recent"
   }
 ]
