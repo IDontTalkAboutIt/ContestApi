@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
-    "startTime": 1790424000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc477",
-    "status": "future"
-  },
-  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 192",
     "startTime": 1790433000,
@@ -104,6 +96,22 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 232",
+    "startTime": 1791633600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc232",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
+    "startTime": 1790424000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc477",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 09",
     "startTime": 1790361031,
@@ -141,14 +149,6 @@
     "startTime": 1790174700,
     "duration": 7200,
     "url": "https://www.codechef.com/START257",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0163 Beta",
-    "startTime": 1790161200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0163",
     "status": "recent"
   }
 ]
