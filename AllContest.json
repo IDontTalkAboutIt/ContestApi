@@ -13,7 +13,7 @@
     "startTime": 1790510400,
     "duration": 12600,
     "url": "https://atcoder.jp/contests/agc078",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -88,6 +88,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 479",
+    "startTime": 1791720000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc479",
+    "status": "future"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 521",
     "startTime": 1790476200,
@@ -149,14 +157,6 @@
     "startTime": 1790334000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0165",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0164 Beta",
-    "startTime": 1790247600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0164",
     "status": "recent"
   }
 ]
