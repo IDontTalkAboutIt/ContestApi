@@ -88,6 +88,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 1)",
+    "startTime": 1791743700,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2273",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1791743700,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2274",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Grand Contest 078",
     "startTime": 1790510400,
