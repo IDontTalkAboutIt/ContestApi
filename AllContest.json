@@ -80,6 +80,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 523",
+    "startTime": 1791685800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-523",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 479",
     "startTime": 1791720000,
@@ -101,6 +109,14 @@
     "startTime": 1791743700,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2274",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AAL Contest 001: Let's use segtree!",
+    "startTime": 1791777600,
+    "duration": 18000,
+    "url": "https://atcoder.jp/contests/aalc001",
     "status": "future"
   },
   {
