@@ -65,7 +65,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 1 + Div. 2)",
+    "name": "DeepInfra Round 1 (Codeforces Round, Div. 1 + Div. 2)",
     "startTime": 1791644700,
     "duration": 10800,
     "url": "https://codeforces.com/contestRegistration/2271",
@@ -173,14 +173,6 @@
     "startTime": 1790424000,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc477",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 09",
-    "startTime": 1790361031,
-    "duration": 9000,
-    "url": "https://www.codechef.com/PLACEPREP09",
     "status": "recent"
   }
 ]
