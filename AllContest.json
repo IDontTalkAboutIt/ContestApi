@@ -1,21 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
-    "startTime": 1790331000,
-    "duration": 863400,
-    "url": "https://atcoder.jp/contests/ahc072",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0167 Beta",
-    "startTime": 1790679600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0167",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Starters 258",
     "startTime": 1790778600,
@@ -24,11 +8,11 @@
     "status": "future"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 478",
-    "startTime": 1791028800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc478",
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 10",
+    "startTime": 1790965832,
+    "duration": 7200,
+    "url": "https://www.codechef.com/PLACEPREP10",
     "status": "future"
   },
   {
@@ -37,22 +21,6 @@
     "startTime": 1791081000,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-522",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest 231",
-    "startTime": 1791115200,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc231",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 232",
-    "startTime": 1791633600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc232",
     "status": "future"
   },
   {
@@ -80,14 +48,6 @@
     "status": "future"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 479",
-    "startTime": 1791720000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc479",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 1)",
     "startTime": 1791743700,
@@ -105,11 +65,11 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AAL Contest 001: Let's use segtree!",
-    "startTime": 1791777600,
-    "duration": 18000,
-    "url": "https://atcoder.jp/contests/aalc001",
-    "status": "future"
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0167 Beta",
+    "startTime": 1790679600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0167",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
@@ -141,38 +101,6 @@
     "startTime": 1790476200,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-521",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1124 (Div. 1)",
-    "startTime": 1790433300,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2268",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1124 (Div. 2)",
-    "startTime": 1790433300,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2269",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 192",
-    "startTime": 1790433000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-192",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
-    "startTime": 1790424000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc477",
     "status": "recent"
   }
 ]
