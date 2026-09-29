@@ -1,5 +1,21 @@
 [
   {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
+    "startTime": 1790331000,
+    "duration": 863400,
+    "url": "https://atcoder.jp/contests/ahc072",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0168 Beta",
+    "startTime": 1790766000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0168",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 258",
     "startTime": 1790778600,
@@ -16,11 +32,35 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 478",
+    "startTime": 1791028800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc478",
+    "status": "future"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 522",
     "startTime": 1791081000,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-522",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest 231",
+    "startTime": 1791115200,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc231",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 232",
+    "startTime": 1791633600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc232",
     "status": "future"
   },
   {
@@ -48,6 +88,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 479",
+    "startTime": 1791720000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc479",
+    "status": "future"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 1)",
     "startTime": 1791743700,
@@ -61,6 +109,14 @@
     "startTime": 1791743700,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2274",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AAL Contest 001: Let's use segtree!",
+    "startTime": 1791777600,
+    "duration": 18000,
+    "url": "https://atcoder.jp/contests/aalc001",
     "status": "future"
   },
   {
