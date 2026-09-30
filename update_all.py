@@ -60,6 +60,7 @@ PLATFORMS: dict[str, callable] = {
 }
 
 ALLCONTEST_PATH = os.path.join(os.path.dirname(__file__), "AllContest.json")
+DATA_VERSION_PATH = os.path.join(os.path.dirname(__file__), "DataVersion.json")
 THREE_DAYS_SEC  = 3 * 24 * 3600  # grace period for recently-ended contests
 
 # Sort priority: running first, then future (soonest first), then recent
@@ -115,6 +116,17 @@ if os.path.exists(ALLCONTEST_PATH):
             existing = []
 else:
     existing = []
+
+# Snapshot the meaningful contest data before refreshing.
+# "status" is derived from the current time, so ignore it for versioning.
+def versionable(contests: list[dict]) -> list[dict]:
+    cleaned = [
+        {k: v for k, v in c.items() if k != "status"}
+        for c in contests
+    ]
+    return sorted(cleaned, key=lambda c: c.get("url", ""))
+
+old_versionable = versionable(existing)
 
 # Build a URL-keyed lookup for O(1) access.
 # URL is the deduplication key (unique per contest across platforms).
@@ -239,6 +251,28 @@ final.sort(key=sort_key)
 
 with open(ALLCONTEST_PATH, "w", encoding="utf-8") as fh:
     json.dump(final, fh, indent=2, ensure_ascii=False)
+
+# Increment DataVersion.json only when meaningful contest data changed.
+# This does NOT alter AllContest.json, so existing app parsing remains unchanged.
+new_versionable = versionable(final)
+
+if old_versionable != new_versionable:
+    current_version = 0
+    if os.path.exists(DATA_VERSION_PATH):
+        try:
+            with open(DATA_VERSION_PATH, "r", encoding="utf-8") as fh:
+                current_version = int(json.load(fh).get("version", 0))
+        except (json.JSONDecodeError, OSError, TypeError, ValueError):
+            print("⚠️  DataVersion.json invalid — resetting version counter.")
+
+    next_version = current_version + 1
+    with open(DATA_VERSION_PATH, "w", encoding="utf-8") as fh:
+        json.dump({"version": next_version}, fh, indent=2)
+        fh.write("\n")
+
+    print(f"🔄 Contest data changed — DataVersion bumped to {next_version}.")
+else:
+    print("⏸️  Contest data unchanged — DataVersion left unchanged.")
 
 # ── Summary ───────────────────────────────────────────────────────────────────
 
