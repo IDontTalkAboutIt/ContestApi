@@ -150,13 +150,5 @@
     "duration": 12600,
     "url": "https://atcoder.jp/contests/agc078",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 521",
-    "startTime": 1790476200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-521",
-    "status": "recent"
   }
 ]
