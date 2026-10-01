@@ -9,10 +9,10 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0169 Beta",
-    "startTime": 1790852400,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0170 Beta",
+    "startTime": 1790938800,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0169",
+    "url": "https://atcoder.jp/contests/awc0170",
     "status": "future"
   },
   {
@@ -57,7 +57,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 3)",
+    "name": "Codeforces Round 1125 (Div. 3)",
     "startTime": 1791383700,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2275",
@@ -128,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0169 Beta",
+    "startTime": 1790852400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0169",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 258 (Rated till 5 Star)",
     "startTime": 1790778600,
@@ -149,22 +157,6 @@
     "startTime": 1790679600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0167",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 022 (Rated)",
-    "startTime": 1790602200,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY022",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0166 Beta",
-    "startTime": 1790593200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0166",
     "status": "recent"
   }
 ]
