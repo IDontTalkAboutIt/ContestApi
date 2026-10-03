@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ AtCoder Heuristic Contest 073",
+    "startTime": 1792216800,
+    "duration": 14400,
+    "url": "https://atcoder.jp/contests/ahc073",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 10",
     "startTime": 1790965832,
