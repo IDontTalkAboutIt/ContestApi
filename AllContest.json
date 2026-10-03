@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 478",
-    "startTime": 1791028800,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc478",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 522",
     "startTime": 1791081000,
@@ -136,6 +128,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
+    "startTime": 1792247700,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2261",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 478",
+    "startTime": 1791028800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc478",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 10",
     "startTime": 1790965832,
@@ -157,14 +165,6 @@
     "startTime": 1790852400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0169",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 258 (Rated till 5 Star)",
-    "startTime": 1790778600,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START258",
     "status": "recent"
   }
 ]
