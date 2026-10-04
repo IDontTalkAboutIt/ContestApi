@@ -13,7 +13,7 @@
     "startTime": 1791115200,
     "duration": 7200,
     "url": "https://atcoder.jp/contests/arc231",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -157,14 +157,6 @@
     "startTime": 1790938800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0170",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0169 Beta",
-    "startTime": 1790852400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0169",
     "status": "recent"
   }
 ]
