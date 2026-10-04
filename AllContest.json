@@ -9,14 +9,6 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest 231",
-    "startTime": 1791115200,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc231",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0171 Beta",
     "startTime": 1791198000,
     "duration": 3600,
@@ -126,6 +118,14 @@
     "duration": 10800,
     "url": "https://codeforces.com/contestRegistration/2261",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest 231",
+    "startTime": 1791115200,
+    "duration": 7200,
+    "url": "https://atcoder.jp/contests/arc231",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
