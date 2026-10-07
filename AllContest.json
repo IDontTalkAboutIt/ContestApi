@@ -1,26 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0173 Beta",
-    "startTime": 1791370800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0174 Beta",
+    "startTime": 1791457200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0173",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 259",
-    "startTime": 1791383400,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START259",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1125 (Div. 3)",
-    "startTime": 1791383700,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2275",
+    "url": "https://atcoder.jp/contests/awc0174",
     "status": "future"
   },
   {
@@ -97,6 +81,14 @@
   },
   {
     "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 024 (Rated)",
+    "startTime": 1791811800,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY024",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
     "name": "Starters 260",
     "startTime": 1791988200,
     "duration": 7200,
@@ -128,6 +120,38 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 261",
+    "startTime": 1792593000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START261",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1125 (Div. 3)",
+    "startTime": 1791383700,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2275",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 259",
+    "startTime": 1791383400,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START259",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0173 Beta",
+    "startTime": 1791370800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0173",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0172 Beta",
     "startTime": 1791284400,
@@ -157,14 +181,6 @@
     "startTime": 1790331000,
     "duration": 863400,
     "url": "https://atcoder.jp/contests/ahc072",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest 231",
-    "startTime": 1791115200,
-    "duration": 7200,
-    "url": "https://atcoder.jp/contests/arc231",
     "status": "recent"
   }
 ]
