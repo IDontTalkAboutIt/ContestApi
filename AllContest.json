@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 524",
+    "startTime": 1792290600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-524",
+    "status": "future"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 261",
     "startTime": 1792593000,
