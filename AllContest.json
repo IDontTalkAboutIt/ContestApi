@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeForces",
-    "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
-    "startTime": 1791644700,
-    "duration": 10800,
-    "url": "https://codeforces.com/contestRegistration/2271",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 523",
     "startTime": 1791685800,
@@ -136,6 +128,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
+    "startTime": 1791644700,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2271",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 193",
     "startTime": 1791642600,
@@ -173,14 +173,6 @@
     "startTime": 1791457200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0174",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1125 (Div. 3)",
-    "startTime": 1791383700,
-    "duration": 9000,
-    "url": "https://codeforces.com/contestRegistration/2275",
     "status": "recent"
   }
 ]
