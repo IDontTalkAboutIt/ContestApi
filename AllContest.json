@@ -1,13 +1,5 @@
 [
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 523",
-    "startTime": 1791685800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-523",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 479",
     "startTime": 1791720000,
@@ -126,6 +118,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-194",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 523",
+    "startTime": 1791685800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-523",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
