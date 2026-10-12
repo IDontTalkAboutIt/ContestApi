@@ -5,7 +5,7 @@
     "startTime": 1791777600,
     "duration": 18000,
     "url": "https://atcoder.jp/contests/aalc001",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -93,6 +93,14 @@
     "startTime": 1792852200,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-194",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 525",
+    "startTime": 1792895400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-525",
     "status": "future"
   },
   {
