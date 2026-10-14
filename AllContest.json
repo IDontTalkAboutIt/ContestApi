@@ -80,6 +80,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1792839900,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2277",
+    "status": "future"
+  },
+  {
     "platform": "HackerRank",
     "name": "Orchestrate October'26",
     "startTime": 1792845000,
@@ -173,14 +181,6 @@
     "startTime": 1791720000,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc479",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 523",
-    "startTime": 1791685800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-523",
     "status": "recent"
   }
 ]
