@@ -5,14 +5,14 @@
     "startTime": 1792058400,
     "duration": 259200,
     "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0179 Beta",
-    "startTime": 1792062000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0180 Beta",
+    "startTime": 1792148400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0179",
+    "url": "https://atcoder.jp/contests/awc0180",
     "status": "future"
   },
   {
@@ -136,6 +136,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0179 Beta",
+    "startTime": 1792062000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0179",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
     "startTime": 1791988500,
@@ -173,22 +181,6 @@
     "startTime": 1791811800,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY024",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0176 Beta",
-    "startTime": 1791802800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0176",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AAL Contest 001: Let's use segtree!",
-    "startTime": 1791777600,
-    "duration": 18000,
-    "url": "https://atcoder.jp/contests/aalc001",
     "status": "recent"
   }
 ]
