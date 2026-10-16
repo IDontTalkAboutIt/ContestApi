@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0180 Beta",
-    "startTime": 1792148400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0180",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Placement Prep Weekends - 12",
     "startTime": 1792175428,
@@ -53,6 +45,14 @@
     "startTime": 1792290600,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-524",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0181 Beta",
+    "startTime": 1792407600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0181",
     "status": "future"
   },
   {
@@ -137,6 +137,22 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓗ◉ HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
+    "startTime": 1793354400,
+    "duration": 864000,
+    "url": "https://atcoder.jp/contests/ahc074",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0180 Beta",
+    "startTime": 1792148400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0180",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0179 Beta",
     "startTime": 1792062000,
     "duration": 3600,
@@ -165,14 +181,6 @@
     "startTime": 1791975600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0178",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0177 Beta",
-    "startTime": 1791889200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0177",
     "status": "recent"
   }
 ]
