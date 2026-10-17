@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
-    "startTime": 1792247700,
-    "duration": 10800,
-    "url": "https://codeforces.com/contestRegistration/2261",
-    "status": "running"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 524",
     "startTime": 1792290600,
@@ -134,6 +126,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc482",
     "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
+    "startTime": 1792247700,
+    "duration": 10800,
+    "url": "https://codeforces.com/contestRegistration/2261",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
