@@ -88,14 +88,6 @@
     "status": "future"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 3)",
-    "startTime": 1793284500,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2278",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
     "startTime": 1793354400,
@@ -109,6 +101,14 @@
     "startTime": 1793448000,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc482",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 3)",
+    "startTime": 1793457300,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2278",
     "status": "future"
   },
   {
