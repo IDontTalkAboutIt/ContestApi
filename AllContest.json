@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 524",
-    "startTime": 1792290600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-524",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0181 Beta",
     "startTime": 1792407600,
@@ -126,6 +118,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc482",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 524",
+    "startTime": 1792290600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-524",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
