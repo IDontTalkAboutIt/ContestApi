@@ -1,14 +1,6 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓗ◉ AHC GenAI Rules Trial Contest 2026",
-    "startTime": 1792058400,
-    "duration": 259200,
-    "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0181 Beta",
     "startTime": 1792407600,
     "duration": 3600,
@@ -120,6 +112,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓗ◉ AHC GenAI Rules Trial Contest 2026",
+    "startTime": 1792058400,
+    "duration": 259200,
+    "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 524",
     "startTime": 1792290600,
@@ -165,14 +165,6 @@
     "startTime": 1792148400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0180",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0179 Beta",
-    "startTime": 1792062000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0179",
     "status": "recent"
   }
 ]
