@@ -1,18 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0181 Beta",
-    "startTime": 1792407600,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0182 Beta",
+    "startTime": 1792494000,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0181",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Monday Munch - DSA Challenge 025 (Rated)",
-    "startTime": 1792416600,
-    "duration": 10800,
-    "url": "https://www.codechef.com/DSAMONDAY025",
+    "url": "https://atcoder.jp/contests/awc0182",
     "status": "future"
   },
   {
@@ -112,6 +104,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 025 (Rated)",
+    "startTime": 1792416600,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY025",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0181 Beta",
+    "startTime": 1792407600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0181",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ AHC GenAI Rules Trial Contest 2026",
     "startTime": 1792058400,
@@ -157,14 +165,6 @@
     "startTime": 1792175428,
     "duration": 7200,
     "url": "https://www.codechef.com/PLACEPREP12",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0180 Beta",
-    "startTime": 1792148400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0180",
     "status": "recent"
   }
 ]
