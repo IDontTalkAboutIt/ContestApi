@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0182 Beta",
-    "startTime": 1792494000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0183 Beta",
+    "startTime": 1792580400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0182",
+    "url": "https://atcoder.jp/contests/awc0183",
     "status": "future"
   },
   {
@@ -13,6 +13,14 @@
     "startTime": 1792593000,
     "duration": 7200,
     "url": "https://www.codechef.com/START261",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 12",
+    "startTime": 1792780217,
+    "duration": 172800,
+    "url": "https://www.codechef.com/PLACEPREP13",
     "status": "future"
   },
   {
@@ -104,6 +112,22 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 526",
+    "startTime": 1793500200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-526",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0182 Beta",
+    "startTime": 1792494000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0182",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 025 (Rated)",
     "startTime": 1792416600,
@@ -149,14 +173,6 @@
     "startTime": 1792238400,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc480",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ AtCoder Heuristic Contest 073",
-    "startTime": 1792216800,
-    "duration": 14400,
-    "url": "https://atcoder.jp/contests/ahc073",
     "status": "recent"
   }
 ]
