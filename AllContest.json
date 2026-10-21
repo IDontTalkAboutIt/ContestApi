@@ -17,7 +17,7 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 12",
+    "name": "Placement Prep Weekends - 13",
     "startTime": 1792780217,
     "duration": 172800,
     "url": "https://www.codechef.com/PLACEPREP13",
@@ -149,14 +149,6 @@
     "startTime": 1792058400,
     "duration": 259200,
     "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 524",
-    "startTime": 1792290600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-524",
     "status": "recent"
   }
 ]
