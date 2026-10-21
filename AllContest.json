@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0183 Beta",
-    "startTime": 1792580400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0183",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
-    "name": "Starters 261",
+    "name": "Starters 261 (Rated for 6 Star)",
     "startTime": 1792593000,
     "duration": 7200,
     "url": "https://www.codechef.com/START261",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0184 Beta",
+    "startTime": 1792666800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0184",
     "status": "future"
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 2)",
+    "name": "Codeforces Round 1129 (Div. 2)",
     "startTime": 1792839900,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2277",
@@ -73,7 +73,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 2)",
+    "name": "Codeforces Round 1130 (Div. 2)",
     "startTime": 1793025300,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2272",
@@ -105,7 +105,7 @@
   },
   {
     "platform": "CodeForces",
-    "name": "Codeforces Round (Div. 3)",
+    "name": "Codeforces Round 1131 (Div. 3)",
     "startTime": 1793457300,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2278",
@@ -118,6 +118,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-526",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0183 Beta",
+    "startTime": 1792580400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0183",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
@@ -141,14 +149,6 @@
     "startTime": 1792407600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0181",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓗ◉ AHC GenAI Rules Trial Contest 2026",
-    "startTime": 1792058400,
-    "duration": 259200,
-    "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
     "status": "recent"
   }
 ]
