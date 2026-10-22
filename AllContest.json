@@ -64,6 +64,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 026 (Rated)",
+    "startTime": 1793021400,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY026",
+    "status": "future"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1130 (Div. 2)",
     "startTime": 1793025300,
