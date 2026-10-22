@@ -8,6 +8,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 13",
+    "startTime": 1792780217,
+    "duration": 172800,
+    "url": "https://www.codechef.com/PLACEPREP13",
+    "status": "future"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1129 (Div. 2)",
     "startTime": 1792839900,
@@ -61,6 +69,14 @@
     "startTime": 1793025300,
     "duration": 8100,
     "url": "https://codeforces.com/contestRegistration/2272",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 262",
+    "startTime": 1793197800,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START262",
     "status": "future"
   },
   {
