@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0184 Beta",
-    "startTime": 1792666800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0185 Beta",
+    "startTime": 1792753200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0184",
+    "url": "https://atcoder.jp/contests/awc0185",
     "status": "future"
   },
   {
@@ -120,6 +120,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
+    "startTime": 1793876400,
+    "duration": 1209600,
+    "url": "https://codeforces.com/contestRegistration/2281",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0184 Beta",
+    "startTime": 1792666800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0184",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 261 (Rated for 6 Star)",
     "startTime": 1792593000,
@@ -149,14 +165,6 @@
     "startTime": 1792416600,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY025",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0181 Beta",
-    "startTime": 1792407600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0181",
     "status": "recent"
   }
 ]
