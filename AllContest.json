@@ -8,28 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1129 (Div. 2)",
-    "startTime": 1792839900,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2277",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
-    "startTime": 1792843200,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc481",
-    "status": "future"
-  },
-  {
     "platform": "HackerRank",
     "name": "Orchestrate October'26",
     "startTime": 1792845000,
-    "duration": 86400,
+    "duration": 90000,
     "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "LeetCode",
@@ -129,6 +113,30 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 483",
+    "startTime": 1794052800,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc483",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+    "startTime": 1792843200,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc481",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1129 (Div. 2)",
+    "startTime": 1792839900,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2277",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0185 Beta",
     "startTime": 1792753200,
     "duration": 3600,
@@ -149,14 +157,6 @@
     "startTime": 1792593000,
     "duration": 7200,
     "url": "https://www.codechef.com/START261",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0183 Beta",
-    "startTime": 1792580400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0183",
     "status": "recent"
   }
 ]
