@@ -17,14 +17,6 @@
   },
   {
     "platform": "LeetCode",
-    "name": "Biweekly Contest 194",
-    "startTime": 1792852200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-194",
-    "status": "future"
-  },
-  {
-    "platform": "LeetCode",
     "name": "Weekly Contest 525",
     "startTime": 1792895400,
     "duration": 5400,
@@ -120,6 +112,38 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 195",
+    "startTime": 1794061800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-195",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 1)",
+    "startTime": 1794062100,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2279",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round (Div. 2)",
+    "startTime": 1794062100,
+    "duration": 9000,
+    "url": "https://codeforces.com/contestRegistration/2280",
+    "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 194",
+    "startTime": 1792852200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-194",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
     "startTime": 1792843200,
@@ -149,14 +173,6 @@
     "startTime": 1792666800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0184",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 261 (Rated for 6 Star)",
-    "startTime": 1792593000,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START261",
     "status": "recent"
   }
 ]
