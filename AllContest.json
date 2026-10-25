@@ -16,14 +16,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 525",
-    "startTime": 1792895400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-525",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 233",
     "startTime": 1792929600,
@@ -134,6 +126,14 @@
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2280",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 525",
+    "startTime": 1792895400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-525",
+    "status": "recent"
   },
   {
     "platform": "LeetCode",
