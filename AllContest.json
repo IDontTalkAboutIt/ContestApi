@@ -8,20 +8,12 @@
     "status": "running"
   },
   {
-    "platform": "HackerRank",
-    "name": "Orchestrate October'26",
-    "startTime": 1792845000,
-    "duration": 90000,
-    "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Regular Contest++ 233",
     "startTime": 1792929600,
     "duration": 9000,
     "url": "https://atcoder.jp/contests/arc233",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -128,6 +120,22 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Grand Contest 079",
+    "startTime": 1794139200,
+    "duration": 10800,
+    "url": "https://atcoder.jp/contests/agc079",
+    "status": "future"
+  },
+  {
+    "platform": "HackerRank",
+    "name": "Orchestrate October'26",
+    "startTime": 1792845000,
+    "duration": 90000,
+    "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 525",
     "startTime": 1792895400,
@@ -165,14 +173,6 @@
     "startTime": 1792753200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0185",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0184 Beta",
-    "startTime": 1792666800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0184",
     "status": "recent"
   }
 ]
