@@ -1,21 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 13",
-    "startTime": 1792780217,
-    "duration": 172800,
-    "url": "https://www.codechef.com/PLACEPREP13",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 233",
-    "startTime": 1792929600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc233",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0186 Beta",
     "startTime": 1793012400,
@@ -126,6 +110,22 @@
     "duration": 10800,
     "url": "https://atcoder.jp/contests/agc079",
     "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Placement Prep Weekends - 13",
+    "startTime": 1792780217,
+    "duration": 172800,
+    "url": "https://www.codechef.com/PLACEPREP13",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 233",
+    "startTime": 1792929600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc233",
+    "status": "recent"
   },
   {
     "platform": "HackerRank",
