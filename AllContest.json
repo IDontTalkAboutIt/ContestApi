@@ -182,13 +182,5 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-525",
     "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Biweekly Contest 194",
-    "startTime": 1792852200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-194",
-    "status": "recent"
   }
 ]
