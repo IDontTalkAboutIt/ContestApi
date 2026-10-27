@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0187 Beta",
-    "startTime": 1793098800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0188 Beta",
+    "startTime": 1793185200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0187",
+    "url": "https://atcoder.jp/contests/awc0188",
     "status": "future"
   },
   {
@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0187 Beta",
+    "startTime": 1793098800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0187",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1130 (Div. 2)",
     "startTime": 1793025300,
@@ -181,22 +189,6 @@
     "startTime": 1792852200,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-194",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
-    "startTime": 1792843200,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc481",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1129 (Div. 2)",
-    "startTime": 1792839900,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2277",
     "status": "recent"
   }
 ]
