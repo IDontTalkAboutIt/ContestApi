@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0188 Beta",
-    "startTime": 1793185200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0188",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Starters 262 (Rated for All)",
     "startTime": 1793197800,
     "duration": 10800,
     "url": "https://www.codechef.com/START262",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0189 Beta",
+    "startTime": 1793271600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0189",
     "status": "future"
   },
   {
@@ -45,6 +45,14 @@
     "startTime": 1793500200,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-526",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 027 (Rated)",
+    "startTime": 1793626200,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY027",
     "status": "future"
   },
   {
@@ -121,6 +129,14 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0188 Beta",
+    "startTime": 1793185200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0188",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0187 Beta",
     "startTime": 1793098800,
     "duration": 3600,
@@ -157,22 +173,6 @@
     "startTime": 1792780217,
     "duration": 172800,
     "url": "https://www.codechef.com/PLACEPREP13",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 233",
-    "startTime": 1792929600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc233",
-    "status": "recent"
-  },
-  {
-    "platform": "HackerRank",
-    "name": "Orchestrate October'26",
-    "startTime": 1792845000,
-    "duration": 90000,
-    "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges",
     "status": "recent"
   }
 ]
