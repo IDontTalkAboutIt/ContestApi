@@ -9,9 +9,9 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 262",
+    "name": "Starters 262 (Rated for All)",
     "startTime": 1793197800,
-    "duration": 7200,
+    "duration": 10800,
     "url": "https://www.codechef.com/START262",
     "status": "future"
   },
@@ -173,14 +173,6 @@
     "startTime": 1792845000,
     "duration": 90000,
     "url": "https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 525",
-    "startTime": 1792895400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-525",
     "status": "recent"
   }
 ]
