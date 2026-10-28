@@ -1,13 +1,5 @@
 [
   {
-    "platform": "CodeChef",
-    "name": "Starters 262 (Rated for All)",
-    "startTime": 1793197800,
-    "duration": 10800,
-    "url": "https://www.codechef.com/START262",
-    "status": "running"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0189 Beta",
     "startTime": 1793271600,
@@ -128,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 262 (Rated for All)",
+    "startTime": 1793197800,
+    "duration": 10800,
+    "url": "https://www.codechef.com/START262",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0188 Beta",
     "startTime": 1793185200,
@@ -165,14 +165,6 @@
     "startTime": 1793012400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0186",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Placement Prep Weekends - 13",
-    "startTime": 1792780217,
-    "duration": 172800,
-    "url": "https://www.codechef.com/PLACEPREP13",
     "status": "recent"
   }
 ]
