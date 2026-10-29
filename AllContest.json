@@ -1,18 +1,18 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0189 Beta",
-    "startTime": 1793271600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0189",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓗ◉ HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
     "startTime": 1793354400,
     "duration": 864000,
     "url": "https://atcoder.jp/contests/ahc074",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0190 Beta",
+    "startTime": 1793358000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0190",
     "status": "future"
   },
   {
@@ -120,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0189 Beta",
+    "startTime": 1793271600,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0189",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Starters 262 (Rated for All)",
     "startTime": 1793197800,
@@ -157,14 +165,6 @@
     "startTime": 1793021400,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY026",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0186 Beta",
-    "startTime": 1793012400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0186",
     "status": "recent"
   }
 ]
