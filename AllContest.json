@@ -65,14 +65,6 @@
   },
   {
     "platform": "CodeForces",
-    "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
-    "startTime": 1793876400,
-    "duration": 1209600,
-    "url": "https://codeforces.com/contestRegistration/2281",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
     "name": "Codeforces Round (Div. 2)",
     "startTime": 1793975700,
     "duration": 8100,
