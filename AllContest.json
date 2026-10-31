@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1131 (Div. 3)",
-    "startTime": 1793457300,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2278",
-    "status": "future"
-  },
-  {
     "platform": "LeetCode",
     "name": "Weekly Contest 526",
     "startTime": 1793500200,
@@ -128,6 +120,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1131 (Div. 3)",
+    "startTime": 1793457300,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2278",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 482",
     "startTime": 1793448000,
@@ -149,14 +149,6 @@
     "startTime": 1793271600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0189",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 262 (Rated for All)",
-    "startTime": 1793197800,
-    "duration": 10800,
-    "url": "https://www.codechef.com/START262",
     "status": "recent"
   }
 ]
