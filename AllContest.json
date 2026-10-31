@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 482",
-    "startTime": 1793448000,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc482",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1131 (Div. 3)",
     "startTime": 1793457300,
@@ -129,6 +121,22 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 484",
+    "startTime": 1794657600,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc484",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 482",
+    "startTime": 1793448000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc482",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0190 Beta",
     "startTime": 1793358000,
     "duration": 3600,
@@ -149,14 +157,6 @@
     "startTime": 1793197800,
     "duration": 10800,
     "url": "https://www.codechef.com/START262",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0188 Beta",
-    "startTime": 1793185200,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0188",
     "status": "recent"
   }
 ]
