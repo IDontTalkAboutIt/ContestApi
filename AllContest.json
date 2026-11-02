@@ -112,6 +112,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 528",
+    "startTime": 1794709800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-528",
+    "status": "future"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round (Div. 2)",
     "startTime": 1794753300,
