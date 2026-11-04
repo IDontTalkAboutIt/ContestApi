@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0193 Beta",
-    "startTime": 1793790000,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0193",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Starters 263 (Rated for 5 Star)",
     "startTime": 1793802600,
@@ -29,6 +21,14 @@
     "startTime": 1793802900,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2283",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0194 Beta",
+    "startTime": 1793876400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0194",
     "status": "future"
   },
   {
@@ -89,6 +89,14 @@
   },
   {
     "platform": "CodeChef",
+    "name": "Monday Munch - DSA Challenge 028 (Rated)",
+    "startTime": 1794231005,
+    "duration": 10800,
+    "url": "https://www.codechef.com/DSAMONDAY028",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
     "name": "Starters 264",
     "startTime": 1794407400,
     "duration": 7200,
@@ -118,6 +126,14 @@
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2285",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0193 Beta",
+    "startTime": 1793790000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0193",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
