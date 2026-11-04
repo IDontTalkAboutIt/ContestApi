@@ -17,7 +17,7 @@
   },
   {
     "platform": "CodeChef",
-    "name": "Starters 263",
+    "name": "Starters 263 (Rated for 5 Star)",
     "startTime": 1793802600,
     "duration": 7200,
     "url": "https://www.codechef.com/START263",
@@ -141,14 +141,6 @@
     "startTime": 1793617200,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0191",
-    "status": "recent"
-  },
-  {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 526",
-    "startTime": 1793500200,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-526",
     "status": "recent"
   }
 ]
