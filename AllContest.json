@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1132 (Div. 2)",
-    "startTime": 1793975700,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2284",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 483",
     "startTime": 1794052800,
@@ -118,6 +110,14 @@
     "duration": 7200,
     "url": "https://www.codechef.com/START265",
     "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1132 (Div. 2)",
+    "startTime": 1793975700,
+    "duration": 8100,
+    "url": "https://codeforces.com/contestRegistration/2284",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
