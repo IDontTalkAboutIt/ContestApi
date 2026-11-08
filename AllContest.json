@@ -8,14 +8,6 @@
     "status": "running"
   },
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 527",
-    "startTime": 1794105000,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-527",
-    "status": "future"
-  },
-  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Grand Contest 079",
     "startTime": 1794139200,
@@ -118,6 +110,14 @@
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2288",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 527",
+    "startTime": 1794105000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-527",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
