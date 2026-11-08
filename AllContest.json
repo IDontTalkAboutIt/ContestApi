@@ -9,14 +9,6 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Grand Contest 079",
-    "startTime": 1794139200,
-    "duration": 12600,
-    "url": "https://atcoder.jp/contests/agc079",
-    "status": "future"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0196 Beta",
     "startTime": 1794222000,
     "duration": 3600,
@@ -112,6 +104,22 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Regular Contest++ 234",
+    "startTime": 1795348800,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/arc234",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Grand Contest 079",
+    "startTime": 1794139200,
+    "duration": 12600,
+    "url": "https://atcoder.jp/contests/agc079",
+    "status": "recent"
+  },
+  {
     "platform": "LeetCode",
     "name": "Weekly Contest 527",
     "startTime": 1794105000,
@@ -165,14 +173,6 @@
     "startTime": 1793962800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0195",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0194 Beta",
-    "startTime": 1793876400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0194",
     "status": "recent"
   }
 ]
