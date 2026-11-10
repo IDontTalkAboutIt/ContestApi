@@ -5,7 +5,7 @@
     "startTime": 1794308400,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0197",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "CodeChef",
@@ -97,10 +97,10 @@
   },
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 234",
+    "name": "Ⓐ◉ AtCoder Grand Contest 080",
     "startTime": 1795348800,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc234",
+    "duration": 10800,
+    "url": "https://atcoder.jp/contests/agc080",
     "status": "future"
   },
   {
