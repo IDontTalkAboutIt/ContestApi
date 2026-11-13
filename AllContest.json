@@ -1,14 +1,6 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0200 Beta",
-    "startTime": 1794567600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/awc0200",
-    "status": "running"
-  },
-  {
-    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 484",
     "startTime": 1794657600,
     "duration": 6000,
@@ -29,6 +21,14 @@
     "startTime": 1794753300,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2285",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0201 Beta",
+    "startTime": 1794826800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0201",
     "status": "future"
   },
   {
@@ -96,6 +96,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0200 Beta",
+    "startTime": 1794567600,
+    "duration": 9000,
+    "url": "https://atcoder.jp/contests/awc0200",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1134 (Div. 4)",
     "startTime": 1794494100,
@@ -125,14 +133,6 @@
     "startTime": 1794394800,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0198",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0197 Beta",
-    "startTime": 1794308400,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0197",
     "status": "recent"
   }
 ]
