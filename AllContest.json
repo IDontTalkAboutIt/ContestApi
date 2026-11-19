@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0204 Beta",
-    "startTime": 1795086000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0205 Beta",
+    "startTime": 1795172400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0204",
+    "url": "https://atcoder.jp/contests/awc0205",
     "status": "future"
   },
   {
@@ -88,6 +88,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 530",
+    "startTime": 1795919400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-530",
+    "status": "future"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓗ◉ AtCoder Heuristic Contest 075",
     "startTime": 1795946400,
@@ -102,6 +110,14 @@
     "duration": 604800,
     "url": "https://codeforces.com/contestRegistration/2286",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0204 Beta",
+    "startTime": 1795086000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0204",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
@@ -133,14 +149,6 @@
     "startTime": 1794835800,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY029",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0201 Beta",
-    "startTime": 1794826800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0201",
     "status": "recent"
   }
 ]
