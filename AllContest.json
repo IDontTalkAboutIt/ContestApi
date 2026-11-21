@@ -1,30 +1,6 @@
 [
   {
     "platform": "LeetCode",
-    "name": "Biweekly Contest 196",
-    "startTime": 1795271400,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/biweekly-contest-196",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1136 (Div. 1)",
-    "startTime": 1795271700,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2287",
-    "status": "future"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1136 (Div. 2)",
-    "startTime": 1795271700,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2288",
-    "status": "future"
-  },
-  {
-    "platform": "LeetCode",
     "name": "Weekly Contest 529",
     "startTime": 1795314600,
     "duration": 5400,
@@ -112,6 +88,38 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 197",
+    "startTime": 1796481000,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-197",
+    "status": "future"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1136 (Div. 1)",
+    "startTime": 1795271700,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2287",
+    "status": "recent"
+  },
+  {
+    "platform": "CodeForces",
+    "name": "Codeforces Round 1136 (Div. 2)",
+    "startTime": 1795271700,
+    "duration": 7200,
+    "url": "https://codeforces.com/contestRegistration/2288",
+    "status": "recent"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Biweekly Contest 196",
+    "startTime": 1795271400,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/biweekly-contest-196",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Beginner Contest 485",
     "startTime": 1795262400,
@@ -133,14 +141,6 @@
     "startTime": 1795086000,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0204",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 265 (Rated for 6 Star)",
-    "startTime": 1795012200,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START265",
     "status": "recent"
   }
 ]
