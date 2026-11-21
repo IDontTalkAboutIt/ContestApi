@@ -1,13 +1,5 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 485",
-    "startTime": 1795262400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc485",
-    "status": "future"
-  },
-  {
     "platform": "LeetCode",
     "name": "Biweekly Contest 196",
     "startTime": 1795271400,
@@ -113,6 +105,22 @@
   },
   {
     "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 487",
+    "startTime": 1796472000,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc487",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Beginner Contest 485",
+    "startTime": 1795262400,
+    "duration": 6000,
+    "url": "https://atcoder.jp/contests/abc485",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0205 Beta",
     "startTime": 1795172400,
     "duration": 3600,
@@ -133,14 +141,6 @@
     "startTime": 1795012200,
     "duration": 7200,
     "url": "https://www.codechef.com/START265",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0203 Beta",
-    "startTime": 1794999600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0203",
     "status": "recent"
   }
 ]
