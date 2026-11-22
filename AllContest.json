@@ -1,19 +1,11 @@
 [
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 529",
-    "startTime": 1795314600,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-529",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1137 (Div. 2)",
     "startTime": 1795338300,
     "duration": 7200,
     "url": "https://codeforces.com/contestRegistration/2289",
-    "status": "future"
+    "status": "running"
   },
   {
     "platform": "AtCoder",
@@ -94,6 +86,14 @@
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-197",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 529",
+    "startTime": 1795314600,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-529",
+    "status": "recent"
   },
   {
     "platform": "CodeForces",
