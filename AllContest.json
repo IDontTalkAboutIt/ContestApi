@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0207 Beta",
-    "startTime": 1795518000,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0208 Beta",
+    "startTime": 1795604400,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0207",
+    "url": "https://atcoder.jp/contests/awc0208",
     "status": "future"
   },
   {
@@ -80,6 +80,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
+    "startTime": 1796727600,
+    "duration": 1209600,
+    "url": "https://codeforces.com/contestRegistration/2291",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0207 Beta",
+    "startTime": 1795518000,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0207",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 030 (Rated)",
     "startTime": 1795440600,
@@ -141,14 +157,6 @@
     "startTime": 1795271400,
     "duration": 5400,
     "url": "https://leetcode.com/contest/biweekly-contest-196",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 485",
-    "startTime": 1795262400,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc485",
     "status": "recent"
   }
 ]
