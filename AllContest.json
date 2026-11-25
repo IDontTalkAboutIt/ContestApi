@@ -1,18 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0208 Beta",
-    "startTime": 1795604400,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0209 Beta",
+    "startTime": 1795690800,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0208",
-    "status": "future"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 266 (Rated till 5 Star)",
-    "startTime": 1795617000,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START266",
+    "url": "https://atcoder.jp/contests/awc0209",
     "status": "future"
   },
   {
@@ -96,6 +88,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 266 (Rated till 5 Star)",
+    "startTime": 1795617000,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START266",
+    "status": "recent"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0208 Beta",
+    "startTime": 1795604400,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0208",
+    "status": "recent"
+  },
+  {
     "platform": "AtCoder",
     "name": "Ⓐ◉ AtCoder Weekday Contest 0207 Beta",
     "startTime": 1795518000,
@@ -117,22 +125,6 @@
     "startTime": 1795431600,
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0206",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Regular Contest++ 234",
-    "startTime": 1795348800,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/arc234",
-    "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1137 (Div. 2)",
-    "startTime": 1795338300,
-    "duration": 7200,
-    "url": "https://codeforces.com/contestRegistration/2289",
     "status": "recent"
   }
 ]
