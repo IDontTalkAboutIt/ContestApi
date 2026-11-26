@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0209 Beta",
-    "startTime": 1795690800,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0210 Beta",
+    "startTime": 1795777200,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0209",
+    "url": "https://atcoder.jp/contests/awc0210",
     "status": "future"
   },
   {
@@ -72,6 +72,14 @@
     "status": "future"
   },
   {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 531",
+    "startTime": 1796524200,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-531",
+    "status": "future"
+  },
+  {
     "platform": "CodeForces",
     "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
     "startTime": 1796727600,
@@ -86,6 +94,14 @@
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2282",
     "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0209 Beta",
+    "startTime": 1795690800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0209",
+    "status": "recent"
   },
   {
     "platform": "CodeChef",
@@ -117,14 +133,6 @@
     "startTime": 1795440600,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY030",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0206 Beta",
-    "startTime": 1795431600,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0206",
     "status": "recent"
   }
 ]
