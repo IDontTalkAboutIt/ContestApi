@@ -48,6 +48,14 @@
     "status": "future"
   },
   {
+    "platform": "CodeChef",
+    "name": "Starters 267",
+    "startTime": 1796221800,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START267",
+    "status": "future"
+  },
+  {
     "platform": "HackerRank",
     "name": "RL Gym Hackathon",
     "startTime": 1796445000,
@@ -93,6 +101,14 @@
     "startTime": 1796740500,
     "duration": 9000,
     "url": "https://codeforces.com/contestRegistration/2282",
+    "status": "future"
+  },
+  {
+    "platform": "CodeChef",
+    "name": "Starters 268",
+    "startTime": 1796826600,
+    "duration": 7200,
+    "url": "https://www.codechef.com/START268",
     "status": "future"
   },
   {
